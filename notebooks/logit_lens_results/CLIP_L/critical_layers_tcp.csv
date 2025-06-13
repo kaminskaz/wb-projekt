@@ -2,1200 +2,1200 @@ class,layer,change_rate,type,rank
 "goldfish, Carassius auratus",23,0.6920011683967482,critical,1
 "goldfish, Carassius auratus",22,0.0787455078504877,critical,2
 "goldfish, Carassius auratus",21,0.014902302223599676,critical,3
-"goldfish, Carassius auratus",2,-inf,least_critical,1
-"goldfish, Carassius auratus",6,-inf,least_critical,2
-"goldfish, Carassius auratus",7,-inf,least_critical,3
+"goldfish, Carassius auratus",14,-4.8073691829131355e-06,least_critical,1
+"goldfish, Carassius auratus",16,-1.733048444947371e-06,least_critical,2
+"goldfish, Carassius auratus",7,-9.920963805143402e-08,least_critical,3
 "European fire salamander, Salamandra salamandra",23,0.8336481792034016,critical,1
 "European fire salamander, Salamandra salamandra",22,0.027825783939165225,critical,2
 "European fire salamander, Salamandra salamandra",21,0.0009527908310287802,critical,3
-"European fire salamander, Salamandra salamandra",10,-inf,least_critical,1
-"European fire salamander, Salamandra salamandra",11,-inf,least_critical,2
-"European fire salamander, Salamandra salamandra",12,-inf,least_critical,3
+"European fire salamander, Salamandra salamandra",10,-6.123272379099375e-07,least_critical,1
+"European fire salamander, Salamandra salamandra",11,-2.70977329019928e-07,least_critical,2
+"European fire salamander, Salamandra salamandra",15,-1.7577440432958725e-07,least_critical,3
 "bullfrog, Rana catesbeiana",23,0.30029561535993937,critical,1
 "bullfrog, Rana catesbeiana",21,0.03434191159611145,critical,2
 "bullfrog, Rana catesbeiana",20,0.004161450219536648,critical,3
-"bullfrog, Rana catesbeiana",1,-inf,least_critical,1
-"bullfrog, Rana catesbeiana",2,-inf,least_critical,2
-"bullfrog, Rana catesbeiana",5,-inf,least_critical,3
+"bullfrog, Rana catesbeiana",22,-0.0007328212903235098,least_critical,1
+"bullfrog, Rana catesbeiana",8,-1.3132686996186748e-06,least_critical,2
+"bullfrog, Rana catesbeiana",10,-1.310100219313881e-06,least_critical,3
 "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",23,0.6684492568731231,critical,1
 "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",22,0.05841528957150047,critical,2
 "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",20,0.005597328672446949,critical,3
-"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",1,-inf,least_critical,1
-"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",2,-inf,least_critical,2
-"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",4,-inf,least_critical,3
+"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",11,-5.1041207479585185e-06,least_critical,1
+"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",13,-4.2598572132845906e-06,least_critical,2
+"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",14,-2.5309936297901463e-07,least_critical,3
 "American alligator, Alligator mississipiensis",23,0.6109661963626022,critical,1
 "American alligator, Alligator mississipiensis",22,0.03676307502273119,critical,2
 "American alligator, Alligator mississipiensis",21,0.003055840904650372,critical,3
-"American alligator, Alligator mississipiensis",1,-inf,least_critical,1
-"American alligator, Alligator mississipiensis",2,-inf,least_critical,2
-"American alligator, Alligator mississipiensis",4,-inf,least_critical,3
+"American alligator, Alligator mississipiensis",18,-4.834541279308268e-07,least_critical,1
+"American alligator, Alligator mississipiensis",14,-2.689656565024733e-08,least_critical,2
+"American alligator, Alligator mississipiensis",2,-1.0127155086747663e-09,least_critical,3
 "boa constrictor, Constrictor constrictor",23,0.36933138772721574,critical,1
 "boa constrictor, Constrictor constrictor",22,0.1282623181692907,critical,2
 "boa constrictor, Constrictor constrictor",20,0.06627804974399625,critical,3
-"boa constrictor, Constrictor constrictor",1,-inf,least_critical,1
-"boa constrictor, Constrictor constrictor",2,-inf,least_critical,2
-"boa constrictor, Constrictor constrictor",5,-inf,least_critical,3
+"boa constrictor, Constrictor constrictor",11,-0.001494478681270264,least_critical,1
+"boa constrictor, Constrictor constrictor",13,-0.0009488364459684788,least_critical,2
+"boa constrictor, Constrictor constrictor",16,-0.0005608536730323888,least_critical,3
 trilobite,23,0.244690586164943,critical,1
 trilobite,20,0.04756688888875942,critical,2
 trilobite,21,0.03411471429091763,critical,3
-trilobite,1,-inf,least_critical,1
-trilobite,2,-inf,least_critical,2
-trilobite,5,-inf,least_critical,3
+trilobite,22,-0.005816044280654756,least_critical,1
+trilobite,10,-0.00032019576923629283,least_critical,2
+trilobite,14,-0.00020721894870801816,least_critical,3
 scorpion,22,0.2992949042888359,critical,1
 scorpion,21,0.11280469538643957,critical,2
 scorpion,20,0.026263324548490362,critical,3
-scorpion,1,-inf,least_critical,1
-scorpion,2,-inf,least_critical,2
-scorpion,7,-inf,least_critical,3
+scorpion,10,-0.029794038017280398,least_critical,1
+scorpion,23,-0.012889725287677734,least_critical,2
+scorpion,7,-0.010871126614511006,least_critical,3
 "black widow, Latrodectus mactans",23,0.7721301366854596,critical,1
 "black widow, Latrodectus mactans",21,0.027916302318506038,critical,2
 "black widow, Latrodectus mactans",22,0.006243207836992042,critical,3
-"black widow, Latrodectus mactans",2,-inf,least_critical,1
-"black widow, Latrodectus mactans",5,-inf,least_critical,2
-"black widow, Latrodectus mactans",12,-inf,least_critical,3
+"black widow, Latrodectus mactans",14,-4.269910526417675e-06,least_critical,1
+"black widow, Latrodectus mactans",18,-3.2458956437153567e-06,least_critical,2
+"black widow, Latrodectus mactans",12,-3.0765264398269214e-07,least_critical,3
 tarantula,23,0.263801570981741,critical,1
 tarantula,20,0.23646145128179347,critical,2
 tarantula,21,0.08351018669083715,critical,3
-tarantula,1,-inf,least_critical,1
-tarantula,5,-inf,least_critical,2
-tarantula,8,-inf,least_critical,3
+tarantula,18,-0.011668756781145942,least_critical,1
+tarantula,10,-0.008036777218803758,least_critical,2
+tarantula,8,-0.006528690410777922,least_critical,3
 centipede,23,0.21147004785947504,critical,1
 centipede,20,0.09385462344624104,critical,2
 centipede,22,0.0741441865521483,critical,3
-centipede,1,-inf,least_critical,1
-centipede,2,-inf,least_critical,2
-centipede,4,-inf,least_critical,3
+centipede,8,-0.038926293812692185,least_critical,1
+centipede,9,-0.03104915334377437,least_critical,2
+centipede,11,-0.024199147825129334,least_critical,3
 goose,23,0.22507347702514388,critical,1
 goose,22,0.015262887015705922,critical,2
 goose,21,0.014495046866359197,critical,3
-goose,1,-inf,least_critical,1
-goose,2,-inf,least_critical,2
-goose,8,-inf,least_critical,3
+goose,9,-0.0021234977548010765,least_critical,1
+goose,10,-0.0018803820504399442,least_critical,2
+goose,8,-0.0018179113953374296,least_critical,3
 "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",23,0.49428515360530584,critical,1
 "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",22,0.2446185667286773,critical,2
 "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",20,0.04216405284779739,critical,3
-"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",2,-inf,least_critical,1
-"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",8,-inf,least_critical,2
-"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",10,-inf,least_critical,3
+"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",21,-0.01820545835795202,least_critical,1
+"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",18,-0.00013792706846287012,least_critical,2
+"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",14,-5.68745838199761e-05,least_critical,3
 jellyfish,23,0.31076189500337936,critical,1
 jellyfish,22,0.07225239520368634,critical,2
 jellyfish,20,0.04224454856885132,critical,3
-jellyfish,1,-inf,least_critical,1
-jellyfish,2,-inf,least_critical,2
-jellyfish,5,-inf,least_critical,3
+jellyfish,21,-0.012399330777116128,least_critical,1
+jellyfish,7,-0.0008792551539954658,least_critical,2
+jellyfish,6,-0.00028539568651467836,least_critical,3
 brain coral,23,0.48774783002430927,critical,1
 brain coral,20,0.07865702790961224,critical,2
 brain coral,21,0.03675270753468794,critical,3
-brain coral,2,-inf,least_critical,1
-brain coral,5,-inf,least_critical,2
-brain coral,7,-inf,least_critical,3
+brain coral,19,-0.012069441477760852,least_critical,1
+brain coral,14,-0.001941345171617276,least_critical,2
+brain coral,7,-2.1960265243592404e-07,least_critical,3
 snail,23,0.373656172628398,critical,1
 snail,20,0.13371427393751217,critical,2
 snail,22,0.05510985513101335,critical,3
-snail,1,-inf,least_critical,1
-snail,2,-inf,least_critical,2
-snail,6,-inf,least_critical,3
+snail,21,-0.015114717963151614,least_critical,1
+snail,10,-0.004398762308119334,least_critical,2
+snail,11,-0.0008141262448043536,least_critical,3
 slug,23,0.2822398243215867,critical,1
 slug,21,0.07249188937013967,critical,2
 slug,20,0.040442407708615076,critical,3
-slug,1,-inf,least_critical,1
-slug,2,-inf,least_critical,2
-slug,7,-inf,least_critical,3
+slug,1,-0.00276157877873629,least_critical,1
+slug,9,-0.002374854756053539,least_critical,2
+slug,10,-0.0020494336663978204,least_critical,3
 "sea slug, nudibranch",23,0.31721873128503836,critical,1
 "sea slug, nudibranch",20,0.00922214948176815,critical,2
 "sea slug, nudibranch",21,0.0035073579542336114,critical,3
-"sea slug, nudibranch",1,-inf,least_critical,1
-"sea slug, nudibranch",2,-inf,least_critical,2
-"sea slug, nudibranch",5,-inf,least_critical,3
+"sea slug, nudibranch",22,-0.0036802225084670744,least_critical,1
+"sea slug, nudibranch",10,-9.564711426435225e-07,least_critical,2
+"sea slug, nudibranch",2,-2.2461400011053453e-08,least_critical,3
 "American lobster, Northern lobster, Maine lobster, Homarus americanus",23,0.47860530794023365,critical,1
 "American lobster, Northern lobster, Maine lobster, Homarus americanus",22,0.07610666718624542,critical,2
 "American lobster, Northern lobster, Maine lobster, Homarus americanus",21,0.0041202487266127595,critical,3
-"American lobster, Northern lobster, Maine lobster, Homarus americanus",2,-inf,least_critical,1
-"American lobster, Northern lobster, Maine lobster, Homarus americanus",7,-inf,least_critical,2
-"American lobster, Northern lobster, Maine lobster, Homarus americanus",11,-inf,least_critical,3
+"American lobster, Northern lobster, Maine lobster, Homarus americanus",18,-2.0477870789359057e-05,least_critical,1
+"American lobster, Northern lobster, Maine lobster, Homarus americanus",15,-5.683550008370729e-06,least_critical,2
+"American lobster, Northern lobster, Maine lobster, Homarus americanus",11,-1.0564684089331437e-07,least_critical,3
 "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",23,0.3207007440346206,critical,1
 "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",22,0.007385440950092748,critical,2
 "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",20,0.006432961831105777,critical,3
-"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",1,-inf,least_critical,1
-"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",2,-inf,least_critical,2
-"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",4,-inf,least_critical,3
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",18,-0.0005691802303681394,least_critical,1
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",12,-6.796230361941007e-05,least_critical,2
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",11,-1.7574368393983794e-05,least_critical,3
 "black stork, Ciconia nigra",23,0.7997478518762549,critical,1
 "black stork, Ciconia nigra",22,0.009566398729043742,critical,2
 "black stork, Ciconia nigra",21,0.00043972148383644163,critical,3
-"black stork, Ciconia nigra",2,-inf,least_critical,1
-"black stork, Ciconia nigra",4,-inf,least_critical,2
-"black stork, Ciconia nigra",5,-inf,least_critical,3
+"black stork, Ciconia nigra",16,-1.1417507199018574e-07,least_critical,1
+"black stork, Ciconia nigra",18,-9.321418849239648e-08,least_critical,2
+"black stork, Ciconia nigra",12,-7.730921534054852e-09,least_critical,3
 "king penguin, Aptenodytes patagonica",22,0.40636800186791877,critical,1
 "king penguin, Aptenodytes patagonica",23,0.3348803219943939,critical,2
 "king penguin, Aptenodytes patagonica",21,0.000251854534661288,critical,3
-"king penguin, Aptenodytes patagonica",2,-inf,least_critical,1
-"king penguin, Aptenodytes patagonica",5,-inf,least_critical,2
-"king penguin, Aptenodytes patagonica",7,-inf,least_critical,3
+"king penguin, Aptenodytes patagonica",15,-2.84975747527616e-09,least_critical,1
+"king penguin, Aptenodytes patagonica",11,-2.2881658292422945e-09,least_critical,2
+"king penguin, Aptenodytes patagonica",16,-1.2647930505704795e-09,least_critical,3
 "albatross, mollymawk",23,0.6163599560078001,critical,1
 "albatross, mollymawk",22,0.08726180511541314,critical,2
 "albatross, mollymawk",20,0.05858110198591022,critical,3
-"albatross, mollymawk",2,-inf,least_critical,1
-"albatross, mollymawk",4,-inf,least_critical,2
-"albatross, mollymawk",5,-inf,least_critical,3
+"albatross, mollymawk",14,-0.0019806188577786103,least_critical,1
+"albatross, mollymawk",19,-0.000377763543656328,least_critical,2
+"albatross, mollymawk",15,-0.00029560741102613015,least_critical,3
 "dugong, Dugong dugon",23,0.5779394529946148,critical,1
 "dugong, Dugong dugon",22,0.29643740093568344,critical,2
 "dugong, Dugong dugon",20,0.03470412304566707,critical,3
-"dugong, Dugong dugon",2,-inf,least_critical,1
-"dugong, Dugong dugon",6,-inf,least_critical,2
-"dugong, Dugong dugon",7,-inf,least_critical,3
+"dugong, Dugong dugon",19,-0.0008452762595879816,least_critical,1
+"dugong, Dugong dugon",14,-0.0001121034403877141,least_critical,2
+"dugong, Dugong dugon",11,-4.0236398763219865e-05,least_critical,3
 Chihuahua,23,0.26300423807784684,critical,1
 Chihuahua,22,0.16326978898752714,critical,2
 Chihuahua,20,0.00933567176864016,critical,3
-Chihuahua,1,-inf,least_critical,1
-Chihuahua,3,-inf,least_critical,2
-Chihuahua,4,-inf,least_critical,3
+Chihuahua,18,-0.0012292117235483601,least_critical,1
+Chihuahua,16,-0.0004098152182996259,least_critical,2
+Chihuahua,3,-0.00022813386167399804,least_critical,3
 Yorkshire terrier,23,0.4946422361992153,critical,1
 Yorkshire terrier,22,0.18806912866108183,critical,2
 Yorkshire terrier,21,0.08086006685782195,critical,3
-Yorkshire terrier,3,-inf,least_critical,1
-Yorkshire terrier,5,-inf,least_critical,2
-Yorkshire terrier,7,-inf,least_critical,3
+Yorkshire terrier,18,-0.000360529760928333,least_critical,1
+Yorkshire terrier,15,-0.000343956823198809,least_critical,2
+Yorkshire terrier,12,-0.00019089342018559024,least_critical,3
 golden retriever,23,0.45804257389158015,critical,1
 golden retriever,22,0.12090141287655573,critical,2
 golden retriever,20,0.02261087436101661,critical,3
-golden retriever,2,-inf,least_critical,1
-golden retriever,5,-inf,least_critical,2
-golden retriever,9,-inf,least_critical,3
+golden retriever,16,-0.0008291878517047732,least_critical,1
+golden retriever,12,-0.000648273745373434,least_critical,2
+golden retriever,18,-0.00015519274478720257,least_critical,3
 Labrador retriever,23,0.20201026833557992,critical,1
 Labrador retriever,22,0.13395322969619886,critical,2
 Labrador retriever,21,0.028537521894322723,critical,3
-Labrador retriever,2,-inf,least_critical,1
-Labrador retriever,5,-inf,least_critical,2
-Labrador retriever,8,-inf,least_critical,3
+Labrador retriever,14,-0.00109261377921938,least_critical,1
+Labrador retriever,16,-0.0009877925957698357,least_critical,2
+Labrador retriever,5,-2.543741315093939e-05,least_critical,3
 "German shepherd, German shepherd dog, German police dog, alsatian",23,0.7257713865934057,critical,1
 "German shepherd, German shepherd dog, German police dog, alsatian",22,0.10331072435133308,critical,2
 "German shepherd, German shepherd dog, German police dog, alsatian",21,0.00025947726614729586,critical,3
-"German shepherd, German shepherd dog, German police dog, alsatian",2,-inf,least_critical,1
-"German shepherd, German shepherd dog, German police dog, alsatian",7,-inf,least_critical,2
-"German shepherd, German shepherd dog, German police dog, alsatian",11,-inf,least_critical,3
+"German shepherd, German shepherd dog, German police dog, alsatian",14,-1.9782552337233025e-06,least_critical,1
+"German shepherd, German shepherd dog, German police dog, alsatian",18,-9.275776433526062e-07,least_critical,2
+"German shepherd, German shepherd dog, German police dog, alsatian",11,-9.94325852587963e-08,least_critical,3
 standard poodle,23,0.4851405249674872,critical,1
 standard poodle,22,0.10757630539272217,critical,2
 standard poodle,21,0.008012576841006178,critical,3
-standard poodle,2,-inf,least_critical,1
-standard poodle,4,-inf,least_critical,2
-standard poodle,5,-inf,least_critical,3
+standard poodle,14,-1.6172498728650451e-06,least_critical,1
+standard poodle,15,-8.08109177228289e-07,least_critical,2
+standard poodle,16,-1.4569061107749808e-07,least_critical,3
 "tabby, tabby cat",22,0.22961378941079608,critical,1
 "tabby, tabby cat",20,0.08891715894787924,critical,2
 "tabby, tabby cat",19,0.014656591698731054,critical,3
-"tabby, tabby cat",1,-inf,least_critical,1
-"tabby, tabby cat",2,-inf,least_critical,2
-"tabby, tabby cat",5,-inf,least_critical,3
+"tabby, tabby cat",23,-0.023860057448036986,least_critical,1
+"tabby, tabby cat",21,-0.014360122287180296,least_critical,2
+"tabby, tabby cat",14,-0.0007535498475772339,least_critical,3
 Persian cat,22,0.2683112979242833,critical,1
 Persian cat,23,0.2104031706104615,critical,2
 Persian cat,20,0.10596375717217599,critical,3
-Persian cat,2,-inf,least_critical,1
-Persian cat,7,-inf,least_critical,2
-Persian cat,12,-inf,least_critical,3
+Persian cat,21,-0.022965897963294984,least_critical,1
+Persian cat,14,-0.0011443120515104903,least_critical,2
+Persian cat,12,-0.0006775424334045962,least_critical,3
 Egyptian cat,23,0.29388991271131093,critical,1
 Egyptian cat,22,0.21687336705741472,critical,2
 Egyptian cat,20,0.04236120713512264,critical,3
-Egyptian cat,7,-inf,least_critical,1
-Egyptian cat,9,-inf,least_critical,2
-Egyptian cat,14,-inf,least_critical,3
+Egyptian cat,14,-0.0005506834745756373,least_critical,1
+Egyptian cat,16,-0.0003862678867881139,least_critical,2
+Egyptian cat,9,-2.1036778634876132e-05,least_critical,3
 "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",23,0.5317607022602351,critical,1
 "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",22,0.20894422264934298,critical,2
 "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",21,0.00796892394957468,critical,3
-"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",2,-inf,least_critical,1
-"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",3,-inf,least_critical,2
-"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",7,-inf,least_critical,3
+"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",18,-5.691086258366302e-05,least_critical,1
+"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",13,-1.866725330386863e-05,least_critical,2
+"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",15,-3.6945345675565266e-06,least_critical,3
 "lion, king of beasts, Panthera leo",22,0.43337171776220196,critical,1
 "lion, king of beasts, Panthera leo",20,0.1974962109059561,critical,2
 "lion, king of beasts, Panthera leo",21,0.11292059631086895,critical,3
-"lion, king of beasts, Panthera leo",2,-inf,least_critical,1
-"lion, king of beasts, Panthera leo",3,-inf,least_critical,2
-"lion, king of beasts, Panthera leo",7,-inf,least_critical,3
+"lion, king of beasts, Panthera leo",18,-0.0016573018472990978,least_critical,1
+"lion, king of beasts, Panthera leo",15,-0.0012897988545592044,least_critical,2
+"lion, king of beasts, Panthera leo",16,-0.0008293597333249699,least_critical,3
 "brown bear, bruin, Ursus arctos",23,0.5292223931696207,critical,1
 "brown bear, bruin, Ursus arctos",22,0.3458748918763013,critical,2
 "brown bear, bruin, Ursus arctos",21,0.007035451675001234,critical,3
-"brown bear, bruin, Ursus arctos",6,-inf,least_critical,1
-"brown bear, bruin, Ursus arctos",7,-inf,least_critical,2
-"brown bear, bruin, Ursus arctos",13,-inf,least_critical,3
+"brown bear, bruin, Ursus arctos",14,-1.2037404771945149e-05,least_critical,1
+"brown bear, bruin, Ursus arctos",13,-8.406808246944501e-06,least_critical,2
+"brown bear, bruin, Ursus arctos",18,-4.549693765056872e-06,least_critical,3
 "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",23,0.5530350994644686,critical,1
 "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",22,0.3047556291078218,critical,2
 "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",20,0.03570891890092754,critical,3
-"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",2,-inf,least_critical,1
-"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",11,-inf,least_critical,2
-"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",12,-inf,least_critical,3
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",12,-0.0036679752055715437,least_critical,1
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",11,-0.0024747397715691507,least_critical,2
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",21,-0.0013145616382826061,least_critical,3
 fly,22,0.27758652314078064,critical,1
 fly,19,0.06007626107893885,critical,2
 fly,21,0.04680289058946077,critical,3
-fly,1,-inf,least_critical,1
-fly,5,-inf,least_critical,2
-fly,6,-inf,least_critical,3
+fly,15,-0.008630091588711374,least_critical,1
+fly,6,-0.0076849495060741894,least_critical,2
+fly,10,-0.0037976562132826025,least_critical,3
 bee,22,0.5271069420594723,critical,1
 bee,20,0.03602591348811984,critical,2
 bee,21,0.032703118864446885,critical,3
-bee,1,-inf,least_critical,1
-bee,7,-inf,least_critical,2
-bee,10,-inf,least_critical,3
+bee,23,-0.017555393557995624,least_critical,1
+bee,7,-0.009987294464372097,least_critical,2
+bee,12,-0.009139531208202259,least_critical,3
 "grasshopper, hopper",23,0.5340893239646175,critical,1
 "grasshopper, hopper",22,0.03905226399914681,critical,2
 "grasshopper, hopper",20,0.0021161369351375466,critical,3
-"grasshopper, hopper",1,-inf,least_critical,1
-"grasshopper, hopper",6,-inf,least_critical,2
-"grasshopper, hopper",7,-inf,least_critical,3
+"grasshopper, hopper",15,-8.836946416975723e-05,least_critical,1
+"grasshopper, hopper",12,-1.6026432899690475e-06,least_critical,2
+"grasshopper, hopper",11,-1.1761471716925813e-06,least_critical,3
 "walking stick, walkingstick, stick insect",23,0.28111857721240086,critical,1
 "walking stick, walkingstick, stick insect",22,0.1684037203503613,critical,2
 "walking stick, walkingstick, stick insect",20,0.10382505589372158,critical,3
-"walking stick, walkingstick, stick insect",1,-inf,least_critical,1
-"walking stick, walkingstick, stick insect",2,-inf,least_critical,2
-"walking stick, walkingstick, stick insect",11,-inf,least_critical,3
+"walking stick, walkingstick, stick insect",21,-0.03522218665075344,least_critical,1
+"walking stick, walkingstick, stick insect",11,-0.001450234341318716,least_critical,2
+"walking stick, walkingstick, stick insect",16,-0.0014445683811209053,least_critical,3
 "cockroach, roach",23,0.20680253206475757,critical,1
 "cockroach, roach",22,0.07033795205948992,critical,2
 "cockroach, roach",9,0.011142837250372392,critical,3
-"cockroach, roach",1,-inf,least_critical,1
-"cockroach, roach",3,-inf,least_critical,2
-"cockroach, roach",6,-inf,least_critical,3
+"cockroach, roach",10,-0.014046138593694194,least_critical,1
+"cockroach, roach",14,-0.0006289482173087776,least_critical,2
+"cockroach, roach",13,-0.0004838687765732053,least_critical,3
 "mantis, mantid",23,0.3418990873522125,critical,1
 "mantis, mantid",22,0.048760849551617885,critical,2
 "mantis, mantid",21,0.007270077670254972,critical,3
-"mantis, mantid",1,-inf,least_critical,1
-"mantis, mantid",10,-inf,least_critical,2
-"mantis, mantid",11,-inf,least_critical,3
+"mantis, mantid",10,-0.0006464591300755184,least_critical,1
+"mantis, mantid",11,-0.0002946818107375149,least_critical,2
+"mantis, mantid",15,-0.00012608131941305514,least_critical,3
 "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",23,0.45924754561943704,critical,1
 "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",22,0.18573735899182797,critical,2
 "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",20,0.026965667637541626,critical,3
-"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",1,-inf,least_critical,1
-"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",4,-inf,least_critical,2
-"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5,-inf,least_critical,3
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",13,-7.962554469939724e-05,least_critical,1
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",11,-7.127715780823881e-05,least_critical,2
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",4,-1.0975445202348056e-05,least_critical,3
 "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",23,0.7285359572045854,critical,1
 "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",22,0.1993743394904414,critical,2
 "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",21,0.007428107783748597,critical,3
-"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",1,-inf,least_critical,1
-"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",2,-inf,least_critical,2
-"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",9,-inf,least_critical,3
+"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",13,-4.622878506097549e-06,least_critical,1
+"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",14,-1.1540927712871963e-06,least_critical,2
+"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",16,-9.825719165945656e-07,least_critical,3
 "sulphur butterfly, sulfur butterfly",23,0.7939259433268125,critical,1
 "sulphur butterfly, sulfur butterfly",20,0.03237660627977675,critical,2
 "sulphur butterfly, sulfur butterfly",22,0.03175766911885148,critical,3
-"sulphur butterfly, sulfur butterfly",4,-inf,least_critical,1
-"sulphur butterfly, sulfur butterfly",7,-inf,least_critical,2
-"sulphur butterfly, sulfur butterfly",11,-inf,least_critical,3
+"sulphur butterfly, sulfur butterfly",21,-0.021708632993577337,least_critical,1
+"sulphur butterfly, sulfur butterfly",16,-0.0003812360174924737,least_critical,2
+"sulphur butterfly, sulfur butterfly",17,-0.00037598781673295746,least_critical,3
 "sea cucumber, holothurian",23,0.4676805834160769,critical,1
 "sea cucumber, holothurian",20,0.08276756017468871,critical,2
 "sea cucumber, holothurian",21,0.054436848772456886,critical,3
-"sea cucumber, holothurian",1,-inf,least_critical,1
-"sea cucumber, holothurian",2,-inf,least_critical,2
-"sea cucumber, holothurian",5,-inf,least_critical,3
+"sea cucumber, holothurian",19,-0.007531994245364338,least_critical,1
+"sea cucumber, holothurian",13,-0.0002685268378081609,least_critical,2
+"sea cucumber, holothurian",11,-5.198917759116227e-05,least_critical,3
 "guinea pig, Cavia cobaya",23,0.6556620178487356,critical,1
 "guinea pig, Cavia cobaya",22,0.060637273614220236,critical,2
 "guinea pig, Cavia cobaya",20,0.004527569645972534,critical,3
-"guinea pig, Cavia cobaya",1,-inf,least_critical,1
-"guinea pig, Cavia cobaya",10,-inf,least_critical,2
-"guinea pig, Cavia cobaya",14,-inf,least_critical,3
+"guinea pig, Cavia cobaya",21,-0.0024949700100114582,least_critical,1
+"guinea pig, Cavia cobaya",14,-2.2356265021699076e-05,least_critical,2
+"guinea pig, Cavia cobaya",18,-1.0667780279615295e-05,least_critical,3
 "hog, pig, grunter, squealer, Sus scrofa",22,0.276907837279141,critical,1
 "hog, pig, grunter, squealer, Sus scrofa",23,0.18182616761885578,critical,2
 "hog, pig, grunter, squealer, Sus scrofa",20,0.05780122418655084,critical,3
-"hog, pig, grunter, squealer, Sus scrofa",1,-inf,least_critical,1
-"hog, pig, grunter, squealer, Sus scrofa",2,-inf,least_critical,2
-"hog, pig, grunter, squealer, Sus scrofa",4,-inf,least_critical,3
+"hog, pig, grunter, squealer, Sus scrofa",15,-0.0029428728291532036,least_critical,1
+"hog, pig, grunter, squealer, Sus scrofa",18,-0.001735723615565813,least_critical,2
+"hog, pig, grunter, squealer, Sus scrofa",14,-0.0013812920823693363,least_critical,3
 ox,22,0.22073856381000953,critical,1
 ox,21,0.03138223515357823,critical,2
 ox,20,0.029600507589057096,critical,3
-ox,3,-inf,least_critical,1
-ox,4,-inf,least_critical,2
-ox,5,-inf,least_critical,3
+ox,23,-0.07191408163183949,least_critical,1
+ox,3,-0.005880446638911964,least_critical,2
+ox,5,-0.005845920857973401,least_critical,3
 bison,22,0.6099180000647904,critical,1
 bison,23,0.1309232955146581,critical,2
 bison,20,0.045438683307729655,critical,3
-bison,1,-inf,least_critical,1
-bison,2,-inf,least_critical,2
-bison,3,-inf,least_critical,3
+bison,14,-0.00010713028488680424,least_critical,1
+bison,10,-8.025983897820988e-05,least_critical,2
+bison,15,-7.047403050819737e-05,least_critical,3
 "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",23,0.4301257315272687,critical,1
 "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",22,0.4165881207722214,critical,2
 "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",20,0.0037308505050941414,critical,3
-"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",1,-inf,least_critical,1
-"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",2,-inf,least_critical,2
-"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",3,-inf,least_critical,3
+"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",15,-4.074187999889895e-05,least_critical,1
+"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",18,-3.355341641571774e-07,least_critical,2
+"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",12,-6.664121940502833e-08,least_critical,3
 gazelle,22,0.4538423590455205,critical,1
 gazelle,23,0.21550721678882834,critical,2
 gazelle,20,0.09622414525132626,critical,3
-gazelle,1,-inf,least_critical,1
-gazelle,2,-inf,least_critical,2
-gazelle,3,-inf,least_critical,3
+gazelle,10,-0.008317361996741974,least_critical,1
+gazelle,9,-0.006148934615775944,least_critical,2
+gazelle,1,-0.0018148706690408226,least_critical,3
 "Arabian camel, dromedary, Camelus dromedarius",23,0.69529597453971,critical,1
 "Arabian camel, dromedary, Camelus dromedarius",22,0.11459568564777924,critical,2
 "Arabian camel, dromedary, Camelus dromedarius",21,0.008749437247284737,critical,3
-"Arabian camel, dromedary, Camelus dromedarius",2,-inf,least_critical,1
-"Arabian camel, dromedary, Camelus dromedarius",4,-inf,least_critical,2
-"Arabian camel, dromedary, Camelus dromedarius",11,-inf,least_critical,3
+"Arabian camel, dromedary, Camelus dromedarius",14,-8.691110273132912e-06,least_critical,1
+"Arabian camel, dromedary, Camelus dromedarius",15,-2.6367432344898133e-06,least_critical,2
+"Arabian camel, dromedary, Camelus dromedarius",18,-8.74642099262246e-07,least_critical,3
 "orangutan, orang, orangutang, Pongo pygmaeus",22,0.4054120309914015,critical,1
 "orangutan, orang, orangutang, Pongo pygmaeus",23,0.1787780023591768,critical,2
 "orangutan, orang, orangutang, Pongo pygmaeus",21,0.007605639833473095,critical,3
-"orangutan, orang, orangutang, Pongo pygmaeus",1,-inf,least_critical,1
-"orangutan, orang, orangutang, Pongo pygmaeus",2,-inf,least_critical,2
-"orangutan, orang, orangutang, Pongo pygmaeus",9,-inf,least_critical,3
+"orangutan, orang, orangutang, Pongo pygmaeus",10,-3.466367441432484e-05,least_critical,1
+"orangutan, orang, orangutang, Pongo pygmaeus",9,-1.7070146168406444e-05,least_critical,2
+"orangutan, orang, orangutang, Pongo pygmaeus",15,-7.158007515499776e-06,least_critical,3
 "chimpanzee, chimp, Pan troglodytes",22,0.2955402898328611,critical,1
 "chimpanzee, chimp, Pan troglodytes",23,0.2890566961397417,critical,2
 "chimpanzee, chimp, Pan troglodytes",21,0.129499509606394,critical,3
-"chimpanzee, chimp, Pan troglodytes",1,-inf,least_critical,1
-"chimpanzee, chimp, Pan troglodytes",2,-inf,least_critical,2
-"chimpanzee, chimp, Pan troglodytes",10,-inf,least_critical,3
+"chimpanzee, chimp, Pan troglodytes",15,-0.0013976736422773623,least_critical,1
+"chimpanzee, chimp, Pan troglodytes",16,-0.00044594580347618944,least_critical,2
+"chimpanzee, chimp, Pan troglodytes",10,-0.0003245548806807976,least_critical,3
 baboon,22,0.4418183000548744,critical,1
 baboon,23,0.09842517579672849,critical,2
 baboon,20,0.05603438414676931,critical,3
-baboon,1,-inf,least_critical,1
-baboon,5,-inf,least_critical,2
-baboon,10,-inf,least_critical,3
+baboon,15,-0.000356762776782474,least_critical,1
+baboon,10,-0.000201566413306839,least_critical,2
+baboon,14,-0.0001073790458394838,least_critical,3
 "African elephant, Loxodonta africana",23,0.84098227517934,critical,1
 "African elephant, Loxodonta africana",21,0.021016798192358695,critical,2
 "African elephant, Loxodonta africana",22,0.015375099820466854,critical,3
-"African elephant, Loxodonta africana",2,-inf,least_critical,1
-"African elephant, Loxodonta africana",4,-inf,least_critical,2
-"African elephant, Loxodonta africana",7,-inf,least_critical,3
+"African elephant, Loxodonta africana",14,-2.0163697207919997e-06,least_critical,1
+"African elephant, Loxodonta africana",2,-6.824149068052065e-10,least_critical,2
+"African elephant, Loxodonta africana",7,-5.133006730773102e-10,least_critical,3
 "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",23,0.5669592340819509,critical,1
 "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",22,0.2621224188640918,critical,2
 "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",21,0.03482434637498955,critical,3
-"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",2,-inf,least_critical,1
-"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",7,-inf,least_critical,2
-"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",15,-inf,least_critical,3
+"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",15,-3.77107289705168e-05,least_critical,1
+"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",18,-1.2878608417847097e-05,least_critical,2
+"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",16,-4.9041135753192975e-06,least_critical,3
 abacus,21,0.14218126185704022,critical,1
 abacus,19,0.08931245632469655,critical,2
 abacus,22,0.08256652479059995,critical,3
-abacus,2,-inf,least_critical,1
-abacus,4,-inf,least_critical,2
-abacus,5,-inf,least_critical,3
+abacus,14,-0.01116487997118383,least_critical,1
+abacus,12,-0.007373010525479905,least_critical,2
+abacus,5,-0.005802553361281751,least_critical,3
 "academic gown, academic robe, judge's robe",22,0.2771166731760605,critical,1
 "academic gown, academic robe, judge's robe",23,0.27116409696871413,critical,2
 "academic gown, academic robe, judge's robe",21,0.21442788644111718,critical,3
-"academic gown, academic robe, judge's robe",2,-inf,least_critical,1
-"academic gown, academic robe, judge's robe",4,-inf,least_critical,2
-"academic gown, academic robe, judge's robe",5,-inf,least_critical,3
+"academic gown, academic robe, judge's robe",15,-4.476321840228886e-05,least_critical,1
+"academic gown, academic robe, judge's robe",12,-4.2893916269682744e-05,least_critical,2
+"academic gown, academic robe, judge's robe",18,-2.66145456293951e-05,least_critical,3
 altar,23,0.16777285473886877,critical,1
 altar,19,0.1535627792077139,critical,2
 altar,20,0.13851718126097698,critical,3
-altar,2,-inf,least_critical,1
-altar,4,-inf,least_critical,2
-altar,12,-inf,least_critical,3
+altar,22,-0.18758554162224755,least_critical,1
+altar,15,-0.0005893865290272441,least_critical,2
+altar,12,-0.00044443878694435263,least_critical,3
 apron,22,0.14783202077087484,critical,1
 apron,20,0.03264827925653663,critical,2
 apron,19,0.03008654342091178,critical,3
-apron,1,-inf,least_critical,1
-apron,3,-inf,least_critical,2
-apron,5,-inf,least_critical,3
+apron,23,-0.009598159023480574,least_critical,1
+apron,12,-0.0009292875771825073,least_critical,2
+apron,8,-0.0008757465175585858,least_critical,3
 "backpack, back pack, knapsack, packsack, rucksack, haversack",23,0.20429248756496238,critical,1
 "backpack, back pack, knapsack, packsack, rucksack, haversack",19,0.13222982453822626,critical,2
 "backpack, back pack, knapsack, packsack, rucksack, haversack",22,0.11910903655225413,critical,3
-"backpack, back pack, knapsack, packsack, rucksack, haversack",1,-inf,least_critical,1
-"backpack, back pack, knapsack, packsack, rucksack, haversack",2,-inf,least_critical,2
-"backpack, back pack, knapsack, packsack, rucksack, haversack",5,-inf,least_critical,3
+"backpack, back pack, knapsack, packsack, rucksack, haversack",11,-0.0068723995110485814,least_critical,1
+"backpack, back pack, knapsack, packsack, rucksack, haversack",10,-0.005774533301591878,least_critical,2
+"backpack, back pack, knapsack, packsack, rucksack, haversack",7,-0.002933829345274718,least_critical,3
 "bannister, banister, balustrade, balusters, handrail",23,0.4298408295951959,critical,1
 "bannister, banister, balustrade, balusters, handrail",22,0.09524418672721366,critical,2
 "bannister, banister, balustrade, balusters, handrail",21,0.038517597018017144,critical,3
-"bannister, banister, balustrade, balusters, handrail",1,-inf,least_critical,1
-"bannister, banister, balustrade, balusters, handrail",2,-inf,least_critical,2
-"bannister, banister, balustrade, balusters, handrail",3,-inf,least_critical,3
+"bannister, banister, balustrade, balusters, handrail",20,-0.0016013023591949713,least_critical,1
+"bannister, banister, balustrade, balusters, handrail",16,-0.000998614429126968,least_critical,2
+"bannister, banister, balustrade, balusters, handrail",14,-0.0001633945520734452,least_critical,3
 barbershop,22,0.2839341765362769,critical,1
 barbershop,21,0.16356094805989418,critical,2
 barbershop,23,0.11717262516613125,critical,3
-barbershop,1,-inf,least_critical,1
-barbershop,4,-inf,least_critical,2
-barbershop,5,-inf,least_critical,3
+barbershop,1,-0.0008999053237494061,least_critical,1
+barbershop,11,-0.0005681682993963373,least_critical,2
+barbershop,5,-0.00039648887148359993,least_critical,3
 barn,21,0.262256058678031,critical,1
 barn,22,0.20110628541558978,critical,2
 barn,20,0.03439268248155715,critical,3
-barn,1,-inf,least_critical,1
-barn,4,-inf,least_critical,2
-barn,5,-inf,least_critical,3
+barn,23,-0.09856966582126908,least_critical,1
+barn,14,-0.0018725509615614977,least_critical,2
+barn,15,-0.0015996207622811262,least_critical,3
 "barrel, cask",23,0.25149481465516144,critical,1
 "barrel, cask",20,0.1297941689216532,critical,2
 "barrel, cask",21,0.09826902781147509,critical,3
-"barrel, cask",2,-inf,least_critical,1
-"barrel, cask",4,-inf,least_critical,2
-"barrel, cask",5,-inf,least_critical,3
+"barrel, cask",11,-0.0026069962026667795,least_critical,1
+"barrel, cask",5,-0.001135739224264394,least_critical,2
+"barrel, cask",12,-0.0009628951219201425,least_critical,3
 basketball,22,0.4436324273049831,critical,1
 basketball,19,0.30008342602523047,critical,2
 basketball,18,0.09551109509746313,critical,3
-basketball,1,-inf,least_critical,1
-basketball,3,-inf,least_critical,2
-basketball,4,-inf,least_critical,3
+basketball,20,-0.11658271768857958,least_critical,1
+basketball,23,-0.07109953509178013,least_critical,2
+basketball,1,-0.0006420639881980501,least_critical,3
 "bathtub, bathing tub, bath, tub",23,0.3276192423491739,critical,1
 "bathtub, bathing tub, bath, tub",22,0.15728581637842584,critical,2
 "bathtub, bathing tub, bath, tub",21,0.08427982693479866,critical,3
-"bathtub, bathing tub, bath, tub",1,-inf,least_critical,1
-"bathtub, bathing tub, bath, tub",2,-inf,least_critical,2
-"bathtub, bathing tub, bath, tub",4,-inf,least_critical,3
+"bathtub, bathing tub, bath, tub",16,-0.0019673762501042896,least_critical,1
+"bathtub, bathing tub, bath, tub",2,-0.001320246006362144,least_critical,2
+"bathtub, bathing tub, bath, tub",15,-0.0011342003243043925,least_critical,3
 "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",23,0.35812282791361216,critical,1
 "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",22,0.2507634434406646,critical,2
 "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",17,0.07427965528331698,critical,3
-"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",2,-inf,least_critical,1
-"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",7,-inf,least_critical,2
-"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",11,-inf,least_critical,3
+"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",18,-0.03961474666837602,least_critical,1
+"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",16,-0.009863309240899985,least_critical,2
+"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",14,-0.002312920272815976,least_critical,3
 "beacon, lighthouse, beacon light, pharos",23,0.4123547437787056,critical,1
 "beacon, lighthouse, beacon light, pharos",22,0.3931748947268352,critical,2
 "beacon, lighthouse, beacon light, pharos",20,0.05304795215954075,critical,3
-"beacon, lighthouse, beacon light, pharos",1,-inf,least_critical,1
-"beacon, lighthouse, beacon light, pharos",6,-inf,least_critical,2
-"beacon, lighthouse, beacon light, pharos",14,-inf,least_critical,3
+"beacon, lighthouse, beacon light, pharos",21,-0.014823089721612642,least_critical,1
+"beacon, lighthouse, beacon light, pharos",15,-0.0043660072726925125,least_critical,2
+"beacon, lighthouse, beacon light, pharos",14,-0.0011086413276643753,least_critical,3
 beaker,23,0.09892626439162999,critical,1
 beaker,22,0.06794365032808856,critical,2
 beaker,21,0.05335264569788705,critical,3
-beaker,2,-inf,least_critical,1
-beaker,5,-inf,least_critical,2
-beaker,7,-inf,least_critical,3
+beaker,11,-0.00036530811277768894,least_critical,1
+beaker,5,-0.0001517735431843822,least_critical,2
+beaker,2,-0.00014425130852031766,least_critical,3
 beer bottle,22,0.3054570594523102,critical,1
 beer bottle,21,0.20965415163314904,critical,2
 beer bottle,23,0.13009958573617042,critical,3
-beer bottle,2,-inf,least_critical,1
-beer bottle,7,-inf,least_critical,2
-beer bottle,8,-inf,least_critical,3
+beer bottle,18,-0.0025357868353603425,least_critical,1
+beer bottle,10,-0.0016641747771063788,least_critical,2
+beer bottle,11,-0.001176876277313563,least_critical,3
 "bikini, two-piece",23,0.2187567372247577,critical,1
 "bikini, two-piece",20,0.05865941608091816,critical,2
 "bikini, two-piece",21,0.009716345756314707,critical,3
-"bikini, two-piece",1,-inf,least_critical,1
-"bikini, two-piece",2,-inf,least_critical,2
-"bikini, two-piece",4,-inf,least_critical,3
+"bikini, two-piece",22,-0.002213729491923014,least_critical,1
+"bikini, two-piece",12,-0.0009806250838482616,least_critical,2
+"bikini, two-piece",5,-0.000561374751850962,least_critical,3
 "binoculars, field glasses, opera glasses",23,0.27414013450477803,critical,1
 "binoculars, field glasses, opera glasses",22,0.04178846078444963,critical,2
 "binoculars, field glasses, opera glasses",21,0.0042624435101549524,critical,3
-"binoculars, field glasses, opera glasses",2,-inf,least_critical,1
-"binoculars, field glasses, opera glasses",5,-inf,least_critical,2
-"binoculars, field glasses, opera glasses",11,-inf,least_critical,3
+"binoculars, field glasses, opera glasses",20,-4.797070711333251e-05,least_critical,1
+"binoculars, field glasses, opera glasses",16,-7.67652310766873e-06,least_critical,2
+"binoculars, field glasses, opera glasses",12,-1.1716824104723857e-06,least_critical,3
 birdhouse,22,0.2878637486463413,critical,1
 birdhouse,23,0.15165208742662795,critical,2
 birdhouse,20,0.13641453784308402,critical,3
-birdhouse,1,-inf,least_critical,1
-birdhouse,4,-inf,least_critical,2
-birdhouse,5,-inf,least_critical,3
+birdhouse,12,-0.0006332251366984571,least_critical,1
+birdhouse,10,-0.0005358422110293761,least_critical,2
+birdhouse,4,-0.0001743171177804421,least_critical,3
 "bow tie, bow-tie, bowtie",21,0.06213344572051938,critical,1
 "bow tie, bow-tie, bowtie",23,0.06147059559822082,critical,2
 "bow tie, bow-tie, bowtie",22,0.05295665478653977,critical,3
-"bow tie, bow-tie, bowtie",1,-inf,least_critical,1
-"bow tie, bow-tie, bowtie",2,-inf,least_critical,2
-"bow tie, bow-tie, bowtie",4,-inf,least_critical,3
+"bow tie, bow-tie, bowtie",11,-0.020868214839138092,least_critical,1
+"bow tie, bow-tie, bowtie",2,-0.004975316892378028,least_critical,2
+"bow tie, bow-tie, bowtie",1,-0.004153383951634171,least_critical,3
 "brass, memorial tablet, plaque",23,0.37420428887820895,critical,1
 "brass, memorial tablet, plaque",22,0.007271042771682796,critical,2
 "brass, memorial tablet, plaque",21,0.006357086540970861,critical,3
-"brass, memorial tablet, plaque",2,-inf,least_critical,1
-"brass, memorial tablet, plaque",4,-inf,least_critical,2
-"brass, memorial tablet, plaque",5,-inf,least_critical,3
+"brass, memorial tablet, plaque",20,-0.0002213367338059454,least_critical,1
+"brass, memorial tablet, plaque",16,-2.476569207487953e-08,least_critical,2
+"brass, memorial tablet, plaque",2,-1.593883307560162e-09,least_critical,3
 broom,22,0.15887198215350512,critical,1
 broom,23,0.09316257350641532,critical,2
 broom,21,0.06404161968966948,critical,3
-broom,1,-inf,least_critical,1
-broom,2,-inf,least_critical,2
-broom,5,-inf,least_critical,3
+broom,15,-0.0320776812918484,least_critical,1
+broom,10,-0.0115859917900525,least_critical,2
+broom,16,-0.008301629754714684,least_critical,3
 "bucket, pail",19,0.192038500411436,critical,1
 "bucket, pail",20,0.14187172751873733,critical,2
 "bucket, pail",23,0.10921876678708936,critical,3
-"bucket, pail",1,-inf,least_critical,1
-"bucket, pail",4,-inf,least_critical,2
-"bucket, pail",5,-inf,least_critical,3
+"bucket, pail",18,-0.014482004623860116,least_critical,1
+"bucket, pail",5,-0.013284166841767728,least_critical,2
+"bucket, pail",21,-0.011178230955265489,least_critical,3
 "bullet train, bullet",20,0.3412779742490966,critical,1
 "bullet train, bullet",22,0.1636993834516033,critical,2
 "bullet train, bullet",23,0.09312683138297873,critical,3
-"bullet train, bullet",1,-inf,least_critical,1
-"bullet train, bullet",2,-inf,least_critical,2
-"bullet train, bullet",5,-inf,least_critical,3
+"bullet train, bullet",11,-0.008235743984696457,least_critical,1
+"bullet train, bullet",15,-0.003715486984001465,least_critical,2
+"bullet train, bullet",7,-0.0018227065354585632,least_critical,3
 "butcher shop, meat market",23,0.4639967135856568,critical,1
 "butcher shop, meat market",22,0.16574193323396688,critical,2
 "butcher shop, meat market",21,0.021970550964119866,critical,3
-"butcher shop, meat market",1,-inf,least_critical,1
-"butcher shop, meat market",2,-inf,least_critical,2
-"butcher shop, meat market",4,-inf,least_critical,3
+"butcher shop, meat market",14,-3.4099794734174323e-05,least_critical,1
+"butcher shop, meat market",18,-2.02195895053593e-05,least_critical,2
+"butcher shop, meat market",15,-3.626370559002835e-06,least_critical,3
 "candle, taper, wax light",23,0.3637351604701826,critical,1
 "candle, taper, wax light",22,0.05743945597617879,critical,2
 "candle, taper, wax light",21,0.02739320383808661,critical,3
-"candle, taper, wax light",2,-inf,least_critical,1
-"candle, taper, wax light",4,-inf,least_critical,2
-"candle, taper, wax light",5,-inf,least_critical,3
+"candle, taper, wax light",15,-0.0001379274418923064,least_critical,1
+"candle, taper, wax light",12,-1.928238859704425e-05,least_critical,2
+"candle, taper, wax light",16,-5.0462608166398195e-06,least_critical,3
 cannon,22,0.28492067785933617,critical,1
 cannon,21,0.18692856480367484,critical,2
 cannon,23,0.1153988460451364,critical,3
-cannon,2,-inf,least_critical,1
-cannon,7,-inf,least_critical,2
-cannon,8,-inf,least_critical,3
+cannon,8,-0.005174218313768507,least_critical,1
+cannon,11,-0.004899680525995787,least_critical,2
+cannon,9,-0.004112858246080577,least_critical,3
 cardigan,23,0.015825456083985057,critical,1
 cardigan,19,0.008046110715949904,critical,2
 cardigan,18,0.004297266535577368,critical,3
-cardigan,4,-inf,least_critical,1
-cardigan,6,-inf,least_critical,2
-cardigan,7,-inf,least_critical,3
+cardigan,20,-0.005751482201303582,least_critical,1
+cardigan,9,-0.0029110461915843205,least_critical,2
+cardigan,10,-0.00196466639114079,least_critical,3
 "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",23,0.30073167369351717,critical,1
 "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",22,0.2563716514271801,critical,2
 "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",21,0.0808326492168999,critical,3
-"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",2,-inf,least_critical,1
-"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",4,-inf,least_critical,2
-"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",5,-inf,least_critical,3
+"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",11,-0.0005864018050578686,least_critical,1
+"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",2,-0.00037686359952203603,least_critical,2
+"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",7,-0.00013360449658646087,least_critical,3
 CD player,23,0.28544344682246453,critical,1
 CD player,22,0.20960790987126532,critical,2
 CD player,21,0.05684782885015009,critical,3
-CD player,2,-inf,least_critical,1
-CD player,4,-inf,least_critical,2
-CD player,5,-inf,least_critical,3
+CD player,10,-0.003166975798085332,least_critical,1
+CD player,12,-0.0011978934271610203,least_critical,2
+CD player,4,-0.0011438437527976865,least_critical,3
 chain,23,0.27115177249768746,critical,1
 chain,22,0.19016430070623758,critical,2
 chain,21,0.06061241073068232,critical,3
-chain,2,-inf,least_critical,1
-chain,4,-inf,least_critical,2
-chain,5,-inf,least_critical,3
+chain,7,-0.003833370569627721,least_critical,1
+chain,10,-0.0016801942003075946,least_critical,2
+chain,11,-0.0013428412836947198,least_critical,3
 chest,22,0.2616977055789903,critical,1
 chest,19,0.10712152760010216,critical,2
 chest,20,0.047683312795124944,critical,3
-chest,2,-inf,least_critical,1
-chest,4,-inf,least_critical,2
-chest,5,-inf,least_critical,3
+chest,23,-0.02944252435583622,least_critical,1
+chest,21,-0.024397462774068096,least_critical,2
+chest,4,-0.012072343807667493,least_critical,3
 Christmas stocking,21,0.30862132847309115,critical,1
 Christmas stocking,22,0.2356812136224471,critical,2
 Christmas stocking,23,0.14983367956243454,critical,3
-Christmas stocking,1,-inf,least_critical,1
-Christmas stocking,2,-inf,least_critical,2
-Christmas stocking,4,-inf,least_critical,3
+Christmas stocking,18,-0.007499536442919624,least_critical,1
+Christmas stocking,12,-0.0031985865098249585,least_critical,2
+Christmas stocking,9,-0.0023970840917900207,least_critical,3
 cliff dwelling,23,0.4103740207757801,critical,1
 cliff dwelling,21,0.22065969762232274,critical,2
 cliff dwelling,22,0.10818058348770138,critical,3
-cliff dwelling,1,-inf,least_critical,1
-cliff dwelling,3,-inf,least_critical,2
-cliff dwelling,7,-inf,least_critical,3
+cliff dwelling,20,-0.005854194954736158,least_critical,1
+cliff dwelling,12,-0.0005017306475929076,least_critical,2
+cliff dwelling,7,-9.849747902990201e-07,least_critical,3
 "computer keyboard, keypad",23,0.5133031290006256,critical,1
 "computer keyboard, keypad",22,0.010865461981567794,critical,2
 "computer keyboard, keypad",21,0.00023671788278513636,critical,3
-"computer keyboard, keypad",2,-inf,least_critical,1
-"computer keyboard, keypad",4,-inf,least_critical,2
-"computer keyboard, keypad",5,-inf,least_critical,3
+"computer keyboard, keypad",14,-1.61924591974838e-06,least_critical,1
+"computer keyboard, keypad",10,-2.1257001169061597e-07,least_critical,2
+"computer keyboard, keypad",12,-1.7389375589260675e-07,least_critical,3
 "confectionery, confectionary, candy store",19,0.29818900458514697,critical,1
 "confectionery, confectionary, candy store",21,0.17365774616599083,critical,2
 "confectionery, confectionary, candy store",23,0.06688932655379176,critical,3
-"confectionery, confectionary, candy store",1,-inf,least_critical,1
-"confectionery, confectionary, candy store",3,-inf,least_critical,2
-"confectionery, confectionary, candy store",4,-inf,least_critical,3
+"confectionery, confectionary, candy store",20,-0.02515764728188513,least_critical,1
+"confectionery, confectionary, candy store",12,-0.00300256890273885,least_critical,2
+"confectionery, confectionary, candy store",4,-0.0020311432087328296,least_critical,3
 convertible,20,0.11709988818503918,critical,1
 convertible,23,0.03771682450082153,critical,2
 convertible,19,0.015466047334484753,critical,3
-convertible,2,-inf,least_critical,1
-convertible,3,-inf,least_critical,2
-convertible,5,-inf,least_critical,3
+convertible,21,-0.018134168181568378,least_critical,1
+convertible,14,-0.003535548609215767,least_critical,2
+convertible,10,-0.00018150131392757608,least_critical,3
 crane,23,0.13934272471378795,critical,1
 crane,22,0.04731699424737598,critical,2
 crane,21,0.016624691882752823,critical,3
-crane,2,-inf,least_critical,1
-crane,5,-inf,least_critical,2
-crane,7,-inf,least_critical,3
+crane,20,-0.0052167279866989725,least_critical,1
+crane,16,-0.0029117479028354844,least_critical,2
+crane,9,-0.0027748667466221447,least_critical,3
 "dam, dike, dyke",21,0.21698193630669266,critical,1
 "dam, dike, dyke",23,0.08823189947404902,critical,2
 "dam, dike, dyke",19,0.07839013339602388,critical,3
-"dam, dike, dyke",1,-inf,least_critical,1
-"dam, dike, dyke",2,-inf,least_critical,2
-"dam, dike, dyke",4,-inf,least_critical,3
+"dam, dike, dyke",22,-0.08176435914123431,least_critical,1
+"dam, dike, dyke",11,-0.002268510551366496,least_critical,2
+"dam, dike, dyke",7,-0.0015975605236599143,least_critical,3
 desk,23,0.17472956418525426,critical,1
 desk,22,0.17154502526856957,critical,2
 desk,19,0.12072422927943992,critical,3
-desk,2,-inf,least_critical,1
-desk,5,-inf,least_critical,2
-desk,7,-inf,least_critical,3
+desk,10,-0.001007892095658474,least_critical,1
+desk,16,-0.0008867275313241517,least_critical,2
+desk,12,-0.0004647791873867341,least_critical,3
 "dining table, board",22,0.22083781456633012,critical,1
 "dining table, board",21,0.19030693605243867,critical,2
 "dining table, board",19,0.17869240446249027,critical,3
-"dining table, board",2,-inf,least_critical,1
-"dining table, board",4,-inf,least_critical,2
-"dining table, board",5,-inf,least_critical,3
+"dining table, board",20,-0.1371337104788836,least_critical,1
+"dining table, board",12,-0.003374999300140192,least_critical,2
+"dining table, board",4,-0.00010700005266695253,least_critical,3
 drumstick,22,0.08643619634152858,critical,1
 drumstick,23,0.029248426532722083,critical,2
 drumstick,21,0.019452365563920476,critical,3
-drumstick,1,-inf,least_critical,1
-drumstick,3,-inf,least_critical,2
-drumstick,7,-inf,least_critical,3
+drumstick,10,-0.0009621073976086153,least_critical,1
+drumstick,9,-0.0007898151682456899,least_critical,2
+drumstick,1,-0.0005306047070189519,least_critical,3
 dumbbell,22,0.23529147883178667,critical,1
 dumbbell,20,0.08409987174905839,critical,2
 dumbbell,19,0.07940471983980389,critical,3
-dumbbell,2,-inf,least_critical,1
-dumbbell,4,-inf,least_critical,2
-dumbbell,5,-inf,least_critical,3
+dumbbell,2,-0.017491019554436202,least_critical,1
+dumbbell,10,-0.006639893829124045,least_critical,2
+dumbbell,8,-0.006557264477014541,least_critical,3
 "flagpole, flagstaff",23,0.34989596275863966,critical,1
 "flagpole, flagstaff",21,0.005584540008968573,critical,2
 "flagpole, flagstaff",20,0.0001664351070465992,critical,3
-"flagpole, flagstaff",3,-inf,least_critical,1
-"flagpole, flagstaff",4,-inf,least_critical,2
-"flagpole, flagstaff",7,-inf,least_critical,3
+"flagpole, flagstaff",22,-0.001645660172530367,least_critical,1
+"flagpole, flagstaff",17,-4.913463533853164e-06,least_critical,2
+"flagpole, flagstaff",18,-4.275839537583933e-06,least_critical,3
 fountain,23,0.24154781554359947,critical,1
 fountain,22,0.08696215627714991,critical,2
 fountain,21,0.06459558523842135,critical,3
-fountain,2,-inf,least_critical,1
-fountain,5,-inf,least_critical,2
-fountain,12,-inf,least_critical,3
+fountain,12,-0.001096602326724666,least_critical,1
+fountain,20,-0.0009429577644914366,least_critical,2
+fountain,16,-0.00035254964488558,least_critical,3
 freight car,20,0.4038280087523163,critical,1
 freight car,22,0.19621176769025628,critical,2
 freight car,23,0.08858891106210642,critical,3
-freight car,2,-inf,least_critical,1
-freight car,5,-inf,least_critical,2
-freight car,7,-inf,least_critical,3
+freight car,17,-0.0018043856124859321,least_critical,1
+freight car,7,-0.0001351691440504529,least_critical,2
+freight car,12,-0.00013143300784576443,least_critical,3
 "frying pan, frypan, skillet",23,0.2509227310839924,critical,1
 "frying pan, frypan, skillet",22,0.1455294299055822,critical,2
 "frying pan, frypan, skillet",20,0.14149539295875008,critical,3
-"frying pan, frypan, skillet",1,-inf,least_critical,1
-"frying pan, frypan, skillet",2,-inf,least_critical,2
-"frying pan, frypan, skillet",5,-inf,least_critical,3
+"frying pan, frypan, skillet",21,-0.028576606232963958,least_critical,1
+"frying pan, frypan, skillet",15,-0.015139217309188102,least_critical,2
+"frying pan, frypan, skillet",12,-0.006663698067422938,least_critical,3
 fur coat,23,0.3376606115535833,critical,1
 fur coat,22,0.060638651111512454,critical,2
 fur coat,20,0.04161705614649692,critical,3
-fur coat,2,-inf,least_critical,1
-fur coat,4,-inf,least_critical,2
-fur coat,5,-inf,least_critical,3
+fur coat,7,-0.0016762735397787803,least_critical,1
+fur coat,12,-0.0011238455491547944,least_critical,2
+fur coat,4,-0.0007437216839753103,least_critical,3
 "gasmask, respirator, gas helmet",23,0.2621665715472773,critical,1
 "gasmask, respirator, gas helmet",22,0.17509459074935876,critical,2
 "gasmask, respirator, gas helmet",21,0.17474670884330412,critical,3
-"gasmask, respirator, gas helmet",1,-inf,least_critical,1
-"gasmask, respirator, gas helmet",2,-inf,least_critical,2
-"gasmask, respirator, gas helmet",4,-inf,least_critical,3
+"gasmask, respirator, gas helmet",16,-0.0006355173575320413,least_critical,1
+"gasmask, respirator, gas helmet",4,-0.0004456274534459199,least_critical,2
+"gasmask, respirator, gas helmet",14,-0.0004273699647456019,least_critical,3
 go-kart,20,0.3346789011964575,critical,1
 go-kart,23,0.2994076636200771,critical,2
 go-kart,21,0.19191370948217812,critical,3
-go-kart,1,-inf,least_critical,1
-go-kart,7,-inf,least_critical,2
-go-kart,8,-inf,least_critical,3
+go-kart,22,-0.03306219993624837,least_critical,1
+go-kart,10,-0.0019511194200458617,least_critical,2
+go-kart,14,-0.0006270833473536104,least_critical,3
 gondola,23,0.3185543585880078,critical,1
 gondola,21,0.11349207927654789,critical,2
 gondola,6,0.003910977741470572,critical,3
-gondola,2,-inf,least_critical,1
-gondola,3,-inf,least_critical,2
-gondola,5,-inf,least_critical,3
+gondola,22,-0.08471581923266058,least_critical,1
+gondola,7,-0.002189748464152222,least_critical,2
+gondola,14,-0.001972872079277293,least_critical,3
 hourglass,23,0.330475987335667,critical,1
 hourglass,19,0.20462995724054056,critical,2
 hourglass,21,0.11561236757785079,critical,3
-hourglass,5,-inf,least_critical,1
-hourglass,6,-inf,least_critical,2
-hourglass,7,-inf,least_critical,3
+hourglass,22,-0.027758859232999367,least_critical,1
+hourglass,20,-0.018060356422793106,least_critical,2
+hourglass,5,-0.0037035219557583297,least_critical,3
 iPod,22,0.362567420261912,critical,1
 iPod,20,0.07016048162709923,critical,2
 iPod,19,0.0683784967614338,critical,3
-iPod,1,-inf,least_critical,1
-iPod,6,-inf,least_critical,2
-iPod,11,-inf,least_critical,3
+iPod,12,-0.00960291611962019,least_critical,1
+iPod,15,-0.005353829774539923,least_critical,2
+iPod,11,-0.002649264647625396,least_critical,3
 "jinrikisha, ricksha, rickshaw",23,0.4324374818099568,critical,1
 "jinrikisha, ricksha, rickshaw",20,0.14005387170531325,critical,2
 "jinrikisha, ricksha, rickshaw",22,0.06297492698258797,critical,3
-"jinrikisha, ricksha, rickshaw",1,-inf,least_critical,1
-"jinrikisha, ricksha, rickshaw",2,-inf,least_critical,2
-"jinrikisha, ricksha, rickshaw",7,-inf,least_critical,3
+"jinrikisha, ricksha, rickshaw",14,-4.2361838602557055e-05,least_critical,1
+"jinrikisha, ricksha, rickshaw",12,-7.506177842060039e-06,least_critical,2
+"jinrikisha, ricksha, rickshaw",11,-4.349583034582224e-06,least_critical,3
 kimono,23,0.2669080456442316,critical,1
 kimono,22,0.2615175331927458,critical,2
 kimono,21,0.07504556126943498,critical,3
-kimono,1,-inf,least_critical,1
-kimono,2,-inf,least_critical,2
-kimono,5,-inf,least_critical,3
+kimono,12,-2.347983091624428e-05,least_critical,1
+kimono,14,-1.936779147172131e-05,least_critical,2
+kimono,5,-1.609521429600136e-05,least_critical,3
 "lampshade, lamp shade",23,0.3779086746240501,critical,1
 "lampshade, lamp shade",19,0.030536588155227952,critical,2
 "lampshade, lamp shade",21,0.029941641626646746,critical,3
-"lampshade, lamp shade",1,-inf,least_critical,1
-"lampshade, lamp shade",2,-inf,least_critical,2
-"lampshade, lamp shade",3,-inf,least_critical,3
+"lampshade, lamp shade",15,-0.0007992172920785457,least_critical,1
+"lampshade, lamp shade",10,-0.0007049839497631099,least_critical,2
+"lampshade, lamp shade",1,-0.000563523006858304,least_critical,3
 "lawn mower, mower",21,0.2468036521598697,critical,1
 "lawn mower, mower",22,0.1773565754853189,critical,2
 "lawn mower, mower",23,0.11861717537976801,critical,3
-"lawn mower, mower",1,-inf,least_critical,1
-"lawn mower, mower",2,-inf,least_critical,2
-"lawn mower, mower",5,-inf,least_critical,3
+"lawn mower, mower",7,-0.01624443801119925,least_critical,1
+"lawn mower, mower",5,-0.008577050231397165,least_critical,2
+"lawn mower, mower",10,-0.0046409333415795085,least_critical,3
 lifeboat,22,0.24824173985049136,critical,1
 lifeboat,19,0.18864525018259887,critical,2
 lifeboat,20,0.17422500882297753,critical,3
-lifeboat,1,-inf,least_critical,1
-lifeboat,2,-inf,least_critical,2
-lifeboat,7,-inf,least_critical,3
+lifeboat,14,-0.0794962732307613,least_critical,1
+lifeboat,15,-0.00811270919162781,least_critical,2
+lifeboat,16,-0.0035811401857063184,least_critical,3
 "limousine, limo",21,0.24132424607523717,critical,1
 "limousine, limo",20,0.21792417445045437,critical,2
 "limousine, limo",22,0.13923813463421542,critical,3
-"limousine, limo",1,-inf,least_critical,1
-"limousine, limo",2,-inf,least_critical,2
-"limousine, limo",11,-inf,least_critical,3
+"limousine, limo",11,-0.011593598263862078,least_critical,1
+"limousine, limo",16,-0.007040659919148322,least_critical,2
+"limousine, limo",14,-0.0025985690898960483,least_critical,3
 magnetic compass,23,0.49213951933477806,critical,1
 magnetic compass,22,0.10326124853334477,critical,2
 magnetic compass,21,0.025020790343332926,critical,3
-magnetic compass,2,-inf,least_critical,1
-magnetic compass,4,-inf,least_critical,2
-magnetic compass,5,-inf,least_critical,3
+magnetic compass,20,-0.002521523063187493,least_critical,1
+magnetic compass,16,-0.0002491479165200661,least_critical,2
+magnetic compass,18,-0.00010535797966439641,least_critical,3
 maypole,23,0.2620755734294653,critical,1
 maypole,21,0.24331766925752163,critical,2
 maypole,19,0.11534374155104163,critical,3
-maypole,4,-inf,least_critical,1
-maypole,12,-inf,least_critical,2
-maypole,14,-inf,least_critical,3
+maypole,12,-0.15537461469881236,least_critical,1
+maypole,17,-0.05250925762578845,least_critical,2
+maypole,15,-0.002447398640215384,least_critical,3
 military uniform,23,0.351051528341195,critical,1
 military uniform,22,0.12059726992003567,critical,2
 military uniform,21,0.10413879067978997,critical,3
-military uniform,1,-inf,least_critical,1
-military uniform,2,-inf,least_critical,2
-military uniform,3,-inf,least_critical,3
+military uniform,12,-0.0004987785112825576,least_critical,1
+military uniform,16,-0.0003801292871867014,least_critical,2
+military uniform,7,-3.5897129346253684e-05,least_critical,3
 "miniskirt, mini",23,0.42655584192543755,critical,1
 "miniskirt, mini",21,0.04622684783302247,critical,2
 "miniskirt, mini",20,0.03554148621216884,critical,3
-"miniskirt, mini",1,-inf,least_critical,1
-"miniskirt, mini",2,-inf,least_critical,2
-"miniskirt, mini",7,-inf,least_critical,3
+"miniskirt, mini",12,-0.025065467695239943,least_critical,1
+"miniskirt, mini",16,-0.013314331162255258,least_critical,2
+"miniskirt, mini",22,-0.007018000451207623,least_critical,3
 moving van,19,0.3852673246152699,critical,1
 moving van,22,0.2882871237862855,critical,2
 moving van,21,0.08962412811815734,critical,3
-moving van,1,-inf,least_critical,1
-moving van,2,-inf,least_critical,2
-moving van,4,-inf,least_critical,3
+moving van,23,-0.19729803331661966,least_critical,1
+moving van,10,-0.012264323080889884,least_critical,2
+moving van,7,-0.011144842095673084,least_critical,3
 nail,22,0.10811167988926174,critical,1
 nail,19,0.047074108272790946,critical,2
 nail,9,0.027695447970181697,critical,3
-nail,1,-inf,least_critical,1
-nail,2,-inf,least_critical,2
-nail,5,-inf,least_critical,3
+nail,10,-0.02934742577373981,least_critical,1
+nail,5,-0.018138238079845895,least_critical,2
+nail,12,-0.01526242593303323,least_critical,3
 neck brace,23,0.33885255995555785,critical,1
 neck brace,21,0.12622889703139664,critical,2
 neck brace,22,0.11968462928431109,critical,3
-neck brace,1,-inf,least_critical,1
-neck brace,2,-inf,least_critical,2
-neck brace,5,-inf,least_critical,3
+neck brace,10,-0.002191948980616874,least_critical,1
+neck brace,12,-0.0007232110460608917,least_critical,2
+neck brace,5,-0.0007102950019179941,least_critical,3
 obelisk,23,0.4025598058593459,critical,1
 obelisk,21,0.07761281228391458,critical,2
 obelisk,22,0.07265575540135613,critical,3
-obelisk,3,-inf,least_critical,1
-obelisk,7,-inf,least_critical,2
-obelisk,9,-inf,least_critical,3
+obelisk,14,-0.0006537647536606515,least_critical,1
+obelisk,11,-0.00027660220104735414,least_critical,2
+obelisk,15,-0.00017770034086424594,least_critical,3
 "oboe, hautboy, hautbois",23,0.5383212361078382,critical,1
 "oboe, hautboy, hautbois",22,0.12228370205484909,critical,2
 "oboe, hautboy, hautbois",21,0.0006115813275343155,critical,3
-"oboe, hautboy, hautbois",1,-inf,least_critical,1
-"oboe, hautboy, hautbois",4,-inf,least_critical,2
-"oboe, hautboy, hautbois",5,-inf,least_critical,3
+"oboe, hautboy, hautbois",14,-4.271349016562454e-06,least_critical,1
+"oboe, hautboy, hautbois",18,-2.734410491527228e-06,least_critical,2
+"oboe, hautboy, hautbois",11,-2.714653698774328e-06,least_critical,3
 "organ, pipe organ",22,0.30319682316738183,critical,1
 "organ, pipe organ",23,0.19239738373551518,critical,2
 "organ, pipe organ",21,0.16159674474271019,critical,3
-"organ, pipe organ",2,-inf,least_critical,1
-"organ, pipe organ",3,-inf,least_critical,2
-"organ, pipe organ",4,-inf,least_critical,3
+"organ, pipe organ",11,-0.0018508655295590714,least_critical,1
+"organ, pipe organ",14,-0.0013739019542845189,least_critical,2
+"organ, pipe organ",15,-0.00036879710176434275,least_critical,3
 parking meter,23,0.21233326947258319,critical,1
 parking meter,22,0.11570205399737463,critical,2
 parking meter,21,0.03738489774754272,critical,3
-parking meter,2,-inf,least_critical,1
-parking meter,7,-inf,least_critical,2
-parking meter,8,-inf,least_critical,3
+parking meter,11,-0.0005099653091383395,least_critical,1
+parking meter,12,-0.00014972278660021799,least_critical,2
+parking meter,7,-0.0001440196310431819,least_critical,3
 "pay-phone, pay-station",23,0.46577275081865077,critical,1
 "pay-phone, pay-station",21,0.16988226296630274,critical,2
 "pay-phone, pay-station",20,0.015252517766721211,critical,3
-"pay-phone, pay-station",2,-inf,least_critical,1
-"pay-phone, pay-station",5,-inf,least_critical,2
-"pay-phone, pay-station",7,-inf,least_critical,3
+"pay-phone, pay-station",12,-1.378810783378981e-05,least_critical,1
+"pay-phone, pay-station",14,-7.825191412393904e-06,least_critical,2
+"pay-phone, pay-station",16,-3.8450462113814855e-06,least_critical,3
 "picket fence, paling",23,0.22748904479667542,critical,1
 "picket fence, paling",20,0.1983566605858505,critical,2
 "picket fence, paling",16,0.06959869466722013,critical,3
-"picket fence, paling",2,-inf,least_critical,1
-"picket fence, paling",4,-inf,least_critical,2
-"picket fence, paling",6,-inf,least_critical,3
+"picket fence, paling",17,-0.025940209571272146,least_critical,1
+"picket fence, paling",4,-4.4692576921063194e-05,least_critical,2
+"picket fence, paling",6,-3.801530256167918e-05,least_critical,3
 pill bottle,21,0.31294358728919186,critical,1
 pill bottle,23,0.29797391051892197,critical,2
 pill bottle,22,0.15468771704472595,critical,3
-pill bottle,2,-inf,least_critical,1
-pill bottle,7,-inf,least_critical,2
-pill bottle,8,-inf,least_critical,3
+pill bottle,15,-0.000698748549621084,least_critical,1
+pill bottle,16,-0.00033959130887524004,least_critical,2
+pill bottle,10,-0.00012699854249147093,least_critical,3
 "plunger, plumber's helper",23,0.15444028162557522,critical,1
 "plunger, plumber's helper",21,0.016195913450828804,critical,2
 "plunger, plumber's helper",22,0.008140439827366206,critical,3
-"plunger, plumber's helper",1,-inf,least_critical,1
-"plunger, plumber's helper",2,-inf,least_critical,2
-"plunger, plumber's helper",5,-inf,least_critical,3
+"plunger, plumber's helper",7,-0.0005836704105604381,least_critical,1
+"plunger, plumber's helper",10,-0.0005085245730151387,least_critical,2
+"plunger, plumber's helper",15,-0.0003811558494635199,least_critical,3
 pole,23,0.0727557286224328,critical,1
 pole,22,0.03636175630148501,critical,2
 pole,8,0.03197057252749802,critical,3
-pole,1,-inf,least_critical,1
-pole,3,-inf,least_critical,2
-pole,4,-inf,least_critical,3
+pole,9,-0.03247691814322026,least_critical,1
+pole,17,-0.01624996409867891,least_critical,2
+pole,16,-0.012453258442692447,least_critical,3
 "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",23,0.33635856046341356,critical,1
 "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",22,0.2213027877546847,critical,2
 "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",21,0.15887803499586883,critical,3
-"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",2,-inf,least_critical,1
-"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",3,-inf,least_critical,2
-"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",7,-inf,least_critical,3
+"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",20,-0.013416271742898974,least_critical,1
+"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",16,-0.003855865143996195,least_critical,2
+"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",18,-0.003236999855726016,least_critical,3
 poncho,23,0.008185956143206571,critical,1
 poncho,19,0.0031471916887676325,critical,2
 poncho,21,0.002503453315002839,critical,3
-poncho,1,-inf,least_critical,1
-poncho,5,-inf,least_critical,2
-poncho,8,-inf,least_critical,3
+poncho,8,-0.001242314432165594,least_critical,1
+poncho,10,-0.0007200639325310374,least_critical,2
+poncho,5,-0.00044053109886591207,least_critical,3
 "pop bottle, soda bottle",22,0.20363765202186193,critical,1
 "pop bottle, soda bottle",23,0.057032580777595265,critical,2
 "pop bottle, soda bottle",21,0.017294204405916384,critical,3
-"pop bottle, soda bottle",1,-inf,least_critical,1
-"pop bottle, soda bottle",2,-inf,least_critical,2
-"pop bottle, soda bottle",8,-inf,least_critical,3
+"pop bottle, soda bottle",8,-0.004564771027071402,least_critical,1
+"pop bottle, soda bottle",11,-0.0023032418149523406,least_critical,2
+"pop bottle, soda bottle",1,-0.0004447169264312861,least_critical,3
 potter's wheel,23,0.2605318560070009,critical,1
 potter's wheel,19,0.02163053517986555,critical,2
 potter's wheel,21,0.019763907605520218,critical,3
-potter's wheel,2,-inf,least_critical,1
-potter's wheel,5,-inf,least_critical,2
-potter's wheel,7,-inf,least_critical,3
+potter's wheel,22,-0.011279716334684046,least_critical,1
+potter's wheel,20,-0.0020517153566470374,least_critical,2
+potter's wheel,15,-0.0014497080323053564,least_critical,3
 "projectile, missile",22,0.21641075177118185,critical,1
 "projectile, missile",23,0.20950037039816372,critical,2
 "projectile, missile",21,0.19221167849376797,critical,3
-"projectile, missile",2,-inf,least_critical,1
-"projectile, missile",10,-inf,least_critical,2
-"projectile, missile",11,-inf,least_critical,3
+"projectile, missile",11,-0.0035847948404261784,least_critical,1
+"projectile, missile",18,-0.0021803477208595812,least_critical,2
+"projectile, missile",16,-0.0019631297234445734,least_critical,3
 "punching bag, punch bag, punching ball, punchball",22,0.31189098898496015,critical,1
 "punching bag, punch bag, punching ball, punchball",23,0.167925611527171,critical,2
 "punching bag, punch bag, punching ball, punchball",21,0.11782298008125508,critical,3
-"punching bag, punch bag, punching ball, punchball",2,-inf,least_critical,1
-"punching bag, punch bag, punching ball, punchball",5,-inf,least_critical,2
-"punching bag, punch bag, punching ball, punchball",6,-inf,least_critical,3
+"punching bag, punch bag, punching ball, punchball",12,-0.000398413485308955,least_critical,1
+"punching bag, punch bag, punching ball, punchball",14,-0.00026926003298284113,least_critical,2
+"punching bag, punch bag, punching ball, punchball",8,-0.000265342117199906,least_critical,3
 reel,22,0.17660184381529687,critical,1
 reel,20,0.1458855485916138,critical,2
 reel,19,0.09228382036089898,critical,3
-reel,2,-inf,least_critical,1
-reel,4,-inf,least_critical,2
-reel,5,-inf,least_critical,3
+reel,23,-0.21176481876522302,least_critical,1
+reel,4,-0.09890651762485506,least_critical,2
+reel,5,-0.09848152354359631,least_critical,3
 "refrigerator, icebox",23,0.1974109208583832,critical,1
 "refrigerator, icebox",19,0.18239416221738797,critical,2
 "refrigerator, icebox",21,0.1809456357825548,critical,3
-"refrigerator, icebox",1,-inf,least_critical,1
-"refrigerator, icebox",2,-inf,least_critical,2
-"refrigerator, icebox",4,-inf,least_critical,3
+"refrigerator, icebox",4,-0.0008829573087859826,least_critical,1
+"refrigerator, icebox",5,-0.0006373786518815918,least_critical,2
+"refrigerator, icebox",11,-0.00044915523067175364,least_critical,3
 "remote control, remote",21,0.2943905076326337,critical,1
 "remote control, remote",23,0.15113963947165754,critical,2
 "remote control, remote",22,0.12885666364978537,critical,3
-"remote control, remote",2,-inf,least_critical,1
-"remote control, remote",3,-inf,least_critical,2
-"remote control, remote",5,-inf,least_critical,3
+"remote control, remote",7,-0.0015929095586761863,least_critical,1
+"remote control, remote",11,-0.0007451973306888238,least_critical,2
+"remote control, remote",16,-0.0005918877135263755,least_critical,3
 "rocking chair, rocker",20,0.24766777744342114,critical,1
 "rocking chair, rocker",22,0.233093452937901,critical,2
 "rocking chair, rocker",23,0.22501663575880237,critical,3
-"rocking chair, rocker",3,-inf,least_critical,1
-"rocking chair, rocker",5,-inf,least_critical,2
-"rocking chair, rocker",7,-inf,least_critical,3
+"rocking chair, rocker",10,-0.0006970352015923701,least_critical,1
+"rocking chair, rocker",12,-0.0004907163288407813,least_critical,2
+"rocking chair, rocker",5,-0.00022352361847880598,least_critical,3
 rugby ball,22,0.5548918787387084,critical,1
 rugby ball,21,0.17926323806008443,critical,2
 rugby ball,23,0.10824708016240037,critical,3
-rugby ball,1,-inf,least_critical,1
-rugby ball,2,-inf,least_critical,2
-rugby ball,5,-inf,least_critical,3
+rugby ball,15,-7.708493861855458e-06,least_critical,1
+rugby ball,5,-6.4208264393528226e-06,least_critical,2
+rugby ball,10,-5.84106914544691e-06,least_critical,3
 sandal,21,0.18795518990606075,critical,1
 sandal,23,0.16499842605320736,critical,2
 sandal,19,0.04543060235679151,critical,3
-sandal,1,-inf,least_critical,1
-sandal,3,-inf,least_critical,2
-sandal,4,-inf,least_critical,3
+sandal,10,-0.004917721810925289,least_critical,1
+sandal,4,-0.002482293597422543,least_critical,2
+sandal,9,-0.0019347795727662738,least_critical,3
 school bus,21,0.48365286943502733,critical,1
 school bus,22,0.19905488543678074,critical,2
 school bus,20,0.09804369288962334,critical,3
-school bus,1,-inf,least_critical,1
-school bus,4,-inf,least_critical,2
-school bus,11,-inf,least_critical,3
+school bus,16,-0.0013832170760724773,least_critical,1
+school bus,12,-0.0012070966439568865,least_critical,2
+school bus,11,-1.3936867471780155e-05,least_critical,3
 scoreboard,23,0.5294875271639466,critical,1
 scoreboard,22,0.11060287226673612,critical,2
 scoreboard,21,0.0428240477820873,critical,3
-scoreboard,1,-inf,least_critical,1
-scoreboard,2,-inf,least_critical,2
-scoreboard,4,-inf,least_critical,3
+scoreboard,12,-5.463994495242977e-05,least_critical,1
+scoreboard,16,-7.323432455452983e-06,least_critical,2
+scoreboard,4,-2.5642926892999185e-08,least_critical,3
 sewing machine,23,0.4321685296211217,critical,1
 sewing machine,20,0.24810464187243272,critical,2
 sewing machine,21,0.05366099707582184,critical,3
-sewing machine,1,-inf,least_critical,1
-sewing machine,2,-inf,least_critical,2
-sewing machine,4,-inf,least_critical,3
+sewing machine,22,-0.06493615073402909,least_critical,1
+sewing machine,12,-4.958837651655909e-05,least_critical,2
+sewing machine,14,-4.8150695802166485e-05,least_critical,3
 snorkel,19,0.07587504200637342,critical,1
 snorkel,17,0.06841164812445641,critical,2
 snorkel,21,0.06291918236762287,critical,3
-snorkel,2,-inf,least_critical,1
-snorkel,5,-inf,least_critical,2
-snorkel,7,-inf,least_critical,3
+snorkel,23,-0.07504013785626744,least_critical,1
+snorkel,22,-0.05730212326161563,least_critical,2
+snorkel,18,-0.03956268254667521,least_critical,3
 sock,23,0.10143808889086359,critical,1
 sock,21,0.032613701937953016,critical,2
 sock,19,0.008304861604701723,critical,3
-sock,1,-inf,least_critical,1
-sock,2,-inf,least_critical,2
-sock,7,-inf,least_critical,3
+sock,22,-0.010408207323052913,least_critical,1
+sock,10,-0.003335906166175848,least_critical,2
+sock,9,-0.0020009822945576137,least_critical,3
 sombrero,23,0.1710405836661812,critical,1
 sombrero,21,0.11755366673227402,critical,2
 sombrero,22,0.10632138967979701,critical,3
-sombrero,1,-inf,least_critical,1
-sombrero,3,-inf,least_critical,2
-sombrero,5,-inf,least_critical,3
+sombrero,18,-0.005308532670605916,least_critical,1
+sombrero,5,-0.0020221086090896198,least_critical,2
+sombrero,10,-0.0008411670580971867,least_critical,3
 space heater,23,0.15138563015818365,critical,1
 space heater,21,0.11205621258704923,critical,2
 space heater,22,0.059321079065557614,critical,3
-space heater,1,-inf,least_critical,1
-space heater,2,-inf,least_critical,2
-space heater,4,-inf,least_critical,3
+space heater,10,-0.010573113588034172,least_critical,1
+space heater,1,-0.002964560235850517,least_critical,2
+space heater,2,-0.0019592890166677487,least_critical,3
 "spider web, spider's web",23,0.21076240358641368,critical,1
 "spider web, spider's web",22,0.1419374190620147,critical,2
 "spider web, spider's web",21,0.04123622030485423,critical,3
-"spider web, spider's web",1,-inf,least_critical,1
-"spider web, spider's web",2,-inf,least_critical,2
-"spider web, spider's web",4,-inf,least_critical,3
+"spider web, spider's web",17,-0.017692019727546717,least_critical,1
+"spider web, spider's web",1,-0.01480637297034263,least_critical,2
+"spider web, spider's web",5,-0.009508317778818307,least_critical,3
 "sports car, sport car",22,0.24600367525592448,critical,1
 "sports car, sport car",23,0.20462467512115828,critical,2
 "sports car, sport car",21,0.15715924300020567,critical,3
-"sports car, sport car",1,-inf,least_critical,1
-"sports car, sport car",2,-inf,least_critical,2
-"sports car, sport car",5,-inf,least_critical,3
+"sports car, sport car",14,-6.312169323790428e-05,least_critical,1
+"sports car, sport car",10,-5.891533679458226e-05,least_critical,2
+"sports car, sport car",7,-4.5197338658880264e-05,least_critical,3
 steel arch bridge,23,0.3489493069541641,critical,1
 steel arch bridge,22,0.2350040107115638,critical,2
 steel arch bridge,21,0.1538090715756698,critical,3
-steel arch bridge,2,-inf,least_critical,1
-steel arch bridge,4,-inf,least_critical,2
-steel arch bridge,5,-inf,least_critical,3
+steel arch bridge,14,-7.313058418274714e-05,least_critical,1
+steel arch bridge,2,-1.4372188434208511e-06,least_critical,2
+steel arch bridge,7,-1.2587249807438638e-06,least_critical,3
 "stopwatch, stop watch",23,0.3484186226739984,critical,1
 "stopwatch, stop watch",22,0.1320571026833932,critical,2
 "stopwatch, stop watch",21,0.0508144950462156,critical,3
-"stopwatch, stop watch",1,-inf,least_critical,1
-"stopwatch, stop watch",2,-inf,least_critical,2
-"stopwatch, stop watch",5,-inf,least_critical,3
+"stopwatch, stop watch",16,-8.363824178103863e-05,least_critical,1
+"stopwatch, stop watch",11,-7.595384859539066e-05,least_critical,2
+"stopwatch, stop watch",1,-2.7199359501537394e-05,least_critical,3
 "sunglasses, dark glasses, shades",22,0.15964478768968549,critical,1
 "sunglasses, dark glasses, shades",23,0.1390379663161821,critical,2
 "sunglasses, dark glasses, shades",21,0.10412704149588538,critical,3
-"sunglasses, dark glasses, shades",2,-inf,least_critical,1
-"sunglasses, dark glasses, shades",5,-inf,least_critical,2
-"sunglasses, dark glasses, shades",7,-inf,least_critical,3
+"sunglasses, dark glasses, shades",5,-0.0019931362685747457,least_critical,1
+"sunglasses, dark glasses, shades",15,-0.0012259026215178856,least_critical,2
+"sunglasses, dark glasses, shades",11,-0.0010279399406863423,least_critical,3
 suspension bridge,23,0.2582085108058528,critical,1
 suspension bridge,22,0.11509730814839714,critical,2
 suspension bridge,21,0.05840413714468015,critical,3
-suspension bridge,1,-inf,least_critical,1
-suspension bridge,2,-inf,least_critical,2
-suspension bridge,4,-inf,least_critical,3
+suspension bridge,16,-0.0003102360467164462,least_critical,1
+suspension bridge,14,-7.385809622064401e-05,least_critical,2
+suspension bridge,11,-8.415201828026927e-06,least_critical,3
 "swimming trunks, bathing trunks",23,0.2881254995097698,critical,1
 "swimming trunks, bathing trunks",21,0.04855432090582326,critical,2
 "swimming trunks, bathing trunks",22,0.01796334207712791,critical,3
-"swimming trunks, bathing trunks",2,-inf,least_critical,1
-"swimming trunks, bathing trunks",4,-inf,least_critical,2
-"swimming trunks, bathing trunks",5,-inf,least_critical,3
+"swimming trunks, bathing trunks",18,-0.00042493670618567976,least_critical,1
+"swimming trunks, bathing trunks",12,-0.00023176472962402426,least_critical,2
+"swimming trunks, bathing trunks",16,-0.00021373474181926548,least_critical,3
 syringe,23,0.20419589689176065,critical,1
 syringe,22,0.136246205571515,critical,2
 syringe,21,0.06625719915784432,critical,3
-syringe,1,-inf,least_critical,1
-syringe,2,-inf,least_critical,2
-syringe,5,-inf,least_critical,3
+syringe,18,-0.00098475900100311,least_critical,1
+syringe,9,-0.0006828118910198124,least_critical,2
+syringe,16,-0.0005021749669685952,least_critical,3
 teapot,22,0.47476040378678597,critical,1
 teapot,23,0.1876692857965827,critical,2
 teapot,21,0.07152947224560195,critical,3
-teapot,2,-inf,least_critical,1
-teapot,5,-inf,least_critical,2
-teapot,7,-inf,least_critical,3
+teapot,5,-0.0010382072854554377,least_critical,1
+teapot,10,-0.0008281677275954168,least_critical,2
+teapot,18,-0.000367187946685586,least_critical,3
 "teddy, teddy bear",23,0.27705049841362783,critical,1
 "teddy, teddy bear",22,0.13652499696105225,critical,2
 "teddy, teddy bear",21,0.010793614563845037,critical,3
-"teddy, teddy bear",2,-inf,least_critical,1
-"teddy, teddy bear",5,-inf,least_critical,2
-"teddy, teddy bear",6,-inf,least_critical,3
+"teddy, teddy bear",6,-1.953651641088072e-05,least_critical,1
+"teddy, teddy bear",2,-1.785535550880013e-05,least_critical,2
+"teddy, teddy bear",5,-1.6762348714109976e-05,least_critical,3
 "thatch, thatched roof",23,0.4352881749787776,critical,1
 "thatch, thatched roof",21,0.12738552098009678,critical,2
 "thatch, thatched roof",22,0.0708892379774625,critical,3
-"thatch, thatched roof",1,-inf,least_critical,1
-"thatch, thatched roof",2,-inf,least_critical,2
-"thatch, thatched roof",4,-inf,least_critical,3
+"thatch, thatched roof",13,-0.0009303629832720536,least_critical,1
+"thatch, thatched roof",14,-0.00016429989307652248,least_critical,2
+"thatch, thatched roof",15,-4.1566986014898136e-05,least_critical,3
 torch,19,0.2421420392021537,critical,1
 torch,22,0.15207051023840912,critical,2
 torch,21,0.14526377320289607,critical,3
-torch,1,-inf,least_critical,1
-torch,2,-inf,least_critical,2
-torch,3,-inf,least_critical,3
+torch,23,-0.10430968627333648,least_critical,1
+torch,20,-0.052724213711917434,least_critical,2
+torch,15,-0.03430608006194234,least_critical,3
 tractor,22,0.26122174210846427,critical,1
 tractor,20,0.14958232282660908,critical,2
 tractor,23,0.13426917491946372,critical,3
-tractor,2,-inf,least_critical,1
-tractor,5,-inf,least_critical,2
-tractor,7,-inf,least_critical,3
+tractor,21,-0.012009658608585633,least_critical,1
+tractor,7,-0.0034956433181651024,least_critical,2
+tractor,18,-0.0028995737154036815,least_critical,3
 triumphal arch,23,0.5119572592061012,critical,1
 triumphal arch,22,0.18964834868907934,critical,2
 triumphal arch,21,0.056978674601414245,critical,3
-triumphal arch,1,-inf,least_critical,1
-triumphal arch,2,-inf,least_critical,2
-triumphal arch,4,-inf,least_critical,3
+triumphal arch,14,-0.0011667562369257155,least_critical,1
+triumphal arch,18,-0.0009003779405611567,least_critical,2
+triumphal arch,7,-1.10467698686989e-05,least_critical,3
 "trolleybus, trolley coach, trackless trolley",23,0.3627541939411822,critical,1
 "trolleybus, trolley coach, trackless trolley",21,0.015093851726345787,critical,2
 "trolleybus, trolley coach, trackless trolley",22,0.012029373822718976,critical,3
-"trolleybus, trolley coach, trackless trolley",1,-inf,least_critical,1
-"trolleybus, trolley coach, trackless trolley",4,-inf,least_critical,2
-"trolleybus, trolley coach, trackless trolley",12,-inf,least_critical,3
+"trolleybus, trolley coach, trackless trolley",20,-6.376465192061174e-05,least_critical,1
+"trolleybus, trolley coach, trackless trolley",14,-7.800457782636271e-06,least_critical,2
+"trolleybus, trolley coach, trackless trolley",12,-9.773568184101581e-08,least_critical,3
 turnstile,23,0.11501636346607484,critical,1
 turnstile,21,0.003662905347446202,critical,2
 turnstile,20,0.0010862710444780516,critical,3
-turnstile,1,-inf,least_critical,1
-turnstile,2,-inf,least_critical,2
-turnstile,7,-inf,least_critical,3
+turnstile,22,-0.0013769864499408816,least_critical,1
+turnstile,9,-0.00022638502545304148,least_critical,2
+turnstile,16,-0.00014150433016765066,least_critical,3
 umbrella,19,0.24352480718865993,critical,1
 umbrella,22,0.1062544389348477,critical,2
 umbrella,23,0.10410445049521516,critical,3
-umbrella,1,-inf,least_critical,1
-umbrella,4,-inf,least_critical,2
-umbrella,5,-inf,least_critical,3
+umbrella,20,-0.1062336233537644,least_critical,1
+umbrella,18,-0.041326164305210106,least_critical,2
+umbrella,14,-0.03269239337183535,least_critical,3
 vestment,23,0.3920939076750074,critical,1
 vestment,21,0.22101361263048602,critical,2
 vestment,20,0.10382157982661742,critical,3
-vestment,1,-inf,least_critical,1
-vestment,2,-inf,least_critical,2
-vestment,4,-inf,least_critical,3
+vestment,15,-8.332148510815208e-05,least_critical,1
+vestment,11,-4.102294861694475e-05,least_critical,2
+vestment,12,-3.982878994178764e-05,least_critical,3
 viaduct,23,0.24580445471769058,critical,1
 viaduct,22,0.13523727321513435,critical,2
 viaduct,21,0.007653935034941245,critical,3
-viaduct,1,-inf,least_critical,1
-viaduct,4,-inf,least_critical,2
-viaduct,5,-inf,least_critical,3
+viaduct,15,-2.314238083271137e-05,least_critical,1
+viaduct,11,-1.6834488160383442e-05,least_critical,2
+viaduct,16,-1.1469696546554083e-05,least_critical,3
 volleyball,22,0.7553716137615265,critical,1
 volleyball,20,0.1056034189896309,critical,2
 volleyball,23,0.01285108501091603,critical,3
-volleyball,1,-inf,least_critical,1
-volleyball,3,-inf,least_critical,2
-volleyball,4,-inf,least_critical,3
+volleyball,15,-0.0001687929524814422,least_critical,1
+volleyball,12,-5.869870188404388e-05,least_critical,2
+volleyball,1,-5.807477595226096e-05,least_critical,3
 water jug,23,0.2789210885064676,critical,1
 water jug,21,0.1197588981431909,critical,2
 water jug,19,0.09890126111800784,critical,3
-water jug,2,-inf,least_critical,1
-water jug,5,-inf,least_critical,2
-water jug,7,-inf,least_critical,3
+water jug,22,-0.02756995538249607,least_critical,1
+water jug,15,-0.0006544538153684654,least_critical,2
+water jug,18,-0.00042022911016829576,least_critical,3
 water tower,23,0.5412970215943642,critical,1
 water tower,22,0.1701342813466909,critical,2
 water tower,21,0.05003351336403285,critical,3
-water tower,2,-inf,least_critical,1
-water tower,4,-inf,least_critical,2
-water tower,5,-inf,least_critical,3
+water tower,20,-0.00024149216042133707,least_critical,1
+water tower,14,-0.00023151097528170548,least_critical,2
+water tower,16,-0.000153134783649862,least_critical,3
 wok,22,0.1653249816433527,critical,1
 wok,20,0.06797167491167784,critical,2
 wok,19,0.048816724279895425,critical,3
-wok,1,-inf,least_critical,1
-wok,2,-inf,least_critical,2
-wok,3,-inf,least_critical,3
+wok,23,-0.029289966120850275,least_critical,1
+wok,8,-0.0061960879154503365,least_critical,2
+wok,2,-0.0057128700427711045,least_critical,3
 wooden spoon,23,0.17778092908323742,critical,1
 wooden spoon,22,0.08543574749608529,critical,2
 wooden spoon,21,0.038532290838193144,critical,3
-wooden spoon,5,-inf,least_critical,1
-wooden spoon,7,-inf,least_critical,2
-wooden spoon,10,-inf,least_critical,3
+wooden spoon,5,-0.0013008804025594106,least_critical,1
+wooden spoon,15,-0.0010081912274472519,least_critical,2
+wooden spoon,7,-0.0005114354175748341,least_critical,3
 comic book,21,0.1578124779928476,critical,1
 comic book,17,0.1401951705478132,critical,2
 comic book,19,0.13601022424176334,critical,3
-comic book,1,-inf,least_critical,1
-comic book,2,-inf,least_critical,2
-comic book,4,-inf,least_critical,3
+comic book,20,-0.03771623703651128,least_critical,1
+comic book,18,-0.013185376515612024,least_critical,2
+comic book,9,-0.004733820164110505,least_critical,3
 plate,21,0.1597668575868011,critical,1
 plate,19,0.018921282285591586,critical,2
 plate,18,0.018014448233880105,critical,3
-plate,2,-inf,least_critical,1
-plate,4,-inf,least_critical,2
-plate,5,-inf,least_critical,3
+plate,23,-0.04731047678273173,least_critical,1
+plate,20,-0.013785600294359025,least_critical,2
+plate,2,-0.001030081894132306,least_critical,3
 guacamole,23,0.24668785850430142,critical,1
 guacamole,22,0.17447369011410052,critical,2
 guacamole,21,0.02122463462263113,critical,3
-guacamole,1,-inf,least_critical,1
-guacamole,2,-inf,least_critical,2
-guacamole,5,-inf,least_critical,3
+guacamole,7,-0.0026287952228449263,least_critical,1
+guacamole,5,-0.0011554095312021665,least_critical,2
+guacamole,8,-0.0008399863162776479,least_critical,3
 "ice cream, icecream",23,0.18893703060490225,critical,1
 "ice cream, icecream",21,0.17056066800308148,critical,2
 "ice cream, icecream",20,0.015182314438379762,critical,3
-"ice cream, icecream",1,-inf,least_critical,1
-"ice cream, icecream",2,-inf,least_critical,2
-"ice cream, icecream",4,-inf,least_critical,3
+"ice cream, icecream",22,-0.06597804620163518,least_critical,1
+"ice cream, icecream",1,-7.339809075345934e-05,least_critical,2
+"ice cream, icecream",4,-7.235639612188304e-05,least_critical,3
 "ice lolly, lolly, lollipop, popsicle",23,0.09025594751990867,critical,1
 "ice lolly, lolly, lollipop, popsicle",21,0.033206704980693766,critical,2
 "ice lolly, lolly, lollipop, popsicle",10,0.00727667809231208,critical,3
-"ice lolly, lolly, lollipop, popsicle",1,-inf,least_critical,1
-"ice lolly, lolly, lollipop, popsicle",4,-inf,least_critical,2
-"ice lolly, lolly, lollipop, popsicle",11,-inf,least_critical,3
+"ice lolly, lolly, lollipop, popsicle",11,-0.022623603105603265,least_critical,1
+"ice lolly, lolly, lollipop, popsicle",12,-0.003359509682341012,least_critical,2
+"ice lolly, lolly, lollipop, popsicle",1,-0.002709811427630483,least_critical,3
 pretzel,23,0.13911870970827295,critical,1
 pretzel,22,0.005687568712164657,critical,2
 pretzel,21,0.001283480858692173,critical,3
-pretzel,1,-inf,least_critical,1
-pretzel,2,-inf,least_critical,2
-pretzel,5,-inf,least_critical,3
+pretzel,10,-0.00038830170225991246,least_critical,1
+pretzel,12,-0.00026693473322663146,least_critical,2
+pretzel,15,-0.00012251790038132927,least_critical,3
 mashed potato,23,0.2250805977502023,critical,1
 mashed potato,22,0.03935438359607362,critical,2
 mashed potato,21,0.00684741891585872,critical,3
-mashed potato,1,-inf,least_critical,1
-mashed potato,6,-inf,least_critical,2
-mashed potato,7,-inf,least_critical,3
+mashed potato,15,-0.000883912464851155,least_critical,1
+mashed potato,18,-0.0006853106874041262,least_critical,2
+mashed potato,8,-0.0003916575577750317,least_critical,3
 cauliflower,23,0.5819881831812381,critical,1
 cauliflower,22,0.056512964379944595,critical,2
 cauliflower,20,0.008576187093640343,critical,3
-cauliflower,1,-inf,least_critical,1
-cauliflower,2,-inf,least_critical,2
-cauliflower,4,-inf,least_critical,3
+cauliflower,8,-0.0007228895125444926,least_critical,1
+cauliflower,2,-0.0005072561750421221,least_critical,2
+cauliflower,7,-0.00041273573820944194,least_critical,3
 bell pepper,23,0.7381660464365268,critical,1
 bell pepper,21,0.032554876639478605,critical,2
 bell pepper,20,0.0013703755862661707,critical,3
-bell pepper,2,-inf,least_critical,1
-bell pepper,7,-inf,least_critical,2
-bell pepper,8,-inf,least_critical,3
+bell pepper,22,-0.002310178184125107,least_critical,1
+bell pepper,18,-0.0002797922017634657,least_critical,2
+bell pepper,10,-0.00022236704622624777,least_critical,3
 mushroom,22,0.3154590376350097,critical,1
 mushroom,19,0.1839240745827556,critical,2
 mushroom,21,0.16540060531347991,critical,3
-mushroom,1,-inf,least_critical,1
-mushroom,2,-inf,least_critical,2
-mushroom,5,-inf,least_critical,3
+mushroom,20,-0.020952362259849894,least_critical,1
+mushroom,10,-0.016434866685885934,least_critical,2
+mushroom,8,-0.008999710753560073,least_critical,3
 orange,21,0.27357737067155546,critical,1
 orange,23,0.20031011907733043,critical,2
 orange,22,0.18636000657104884,critical,3
-orange,4,-inf,least_critical,1
-orange,6,-inf,least_critical,2
-orange,9,-inf,least_critical,3
+orange,10,-0.012104580014711253,least_critical,1
+orange,12,-0.005382281088386672,least_critical,2
+orange,9,-0.003945000208914279,least_critical,3
 lemon,22,0.3175367583148182,critical,1
 lemon,23,0.17582619495224205,critical,2
 lemon,21,0.0695829462981783,critical,3
-lemon,1,-inf,least_critical,1
-lemon,3,-inf,least_critical,2
-lemon,5,-inf,least_critical,3
+lemon,10,-0.009889853277709335,least_critical,1
+lemon,16,-0.004271306144946719,least_critical,2
+lemon,5,-0.002233718982897696,least_critical,3
 banana,22,0.3025272907176987,critical,1
 banana,23,0.26888215366518126,critical,2
 banana,21,0.02313917337742168,critical,3
-banana,1,-inf,least_critical,1
-banana,9,-inf,least_critical,2
-banana,10,-inf,least_critical,3
+banana,10,-0.006669823967968119,least_critical,1
+banana,12,-0.0015885096028796402,least_critical,2
+banana,16,-0.001418809030437838,least_critical,3
 pomegranate,23,0.5010660325048957,critical,1
 pomegranate,22,0.27014193884562704,critical,2
 pomegranate,21,0.026109408717311454,critical,3
-pomegranate,2,-inf,least_critical,1
-pomegranate,5,-inf,least_critical,2
-pomegranate,8,-inf,least_critical,3
+pomegranate,10,-8.349416991676153e-05,least_critical,1
+pomegranate,2,-7.615560603877536e-05,least_critical,2
+pomegranate,15,-6.557561292538252e-05,least_critical,3
 "meat loaf, meatloaf",23,0.34001549279404575,critical,1
 "meat loaf, meatloaf",22,0.047682664162348384,critical,2
 "meat loaf, meatloaf",21,0.011064787799368793,critical,3
-"meat loaf, meatloaf",2,-inf,least_critical,1
-"meat loaf, meatloaf",5,-inf,least_critical,2
-"meat loaf, meatloaf",6,-inf,least_critical,3
+"meat loaf, meatloaf",10,-0.001294269987192791,least_critical,1
+"meat loaf, meatloaf",5,-0.000266103779867994,least_critical,2
+"meat loaf, meatloaf",11,-0.00014730003167185335,least_critical,3
 "pizza, pizza pie",22,0.6562854261952453,critical,1
 "pizza, pizza pie",23,0.08863401763141154,critical,2
 "pizza, pizza pie",21,0.03533157829428093,critical,3
-"pizza, pizza pie",1,-inf,least_critical,1
-"pizza, pizza pie",2,-inf,least_critical,2
-"pizza, pizza pie",5,-inf,least_critical,3
+"pizza, pizza pie",8,-0.0028921793424524396,least_critical,1
+"pizza, pizza pie",7,-0.0023796675074845564,least_critical,2
+"pizza, pizza pie",5,-0.0022510938299819773,least_critical,3
 potpie,22,0.35609546337742365,critical,1
 potpie,23,0.3074675626447424,critical,2
 potpie,21,0.050699380228761595,critical,3
-potpie,1,-inf,least_critical,1
-potpie,2,-inf,least_critical,2
-potpie,10,-inf,least_critical,3
+potpie,10,-0.005846815711702213,least_critical,1
+potpie,18,-0.0018455917784012867,least_critical,2
+potpie,12,-0.001668398386973416,least_critical,3
 espresso,22,0.5333156677195803,critical,1
 espresso,23,0.1375876788329332,critical,2
 espresso,20,0.034313766395207494,critical,3
-espresso,2,-inf,least_critical,1
-espresso,5,-inf,least_critical,2
-espresso,6,-inf,least_critical,3
+espresso,18,-0.0005314775307488158,least_critical,1
+espresso,10,-0.00018340008224185188,least_critical,2
+espresso,12,-0.00010355504680316493,least_critical,3
 alp,12,0.2642512926459313,critical,1
 alp,5,0.20087354540824892,critical,2
 alp,20,0.13634679101407526,critical,3
-alp,1,-inf,least_critical,1
-alp,3,-inf,least_critical,2
-alp,6,-inf,least_critical,3
+alp,23,-0.4016275263763964,least_critical,1
+alp,13,-0.23855025470256808,least_critical,2
+alp,3,-0.17522948265075683,least_critical,3
 "cliff, drop, drop-off",21,0.1045294134691358,critical,1
 "cliff, drop, drop-off",19,0.07644266577321106,critical,2
 "cliff, drop, drop-off",22,0.03236329136881977,critical,3
-"cliff, drop, drop-off",1,-inf,least_critical,1
-"cliff, drop, drop-off",3,-inf,least_critical,2
-"cliff, drop, drop-off",5,-inf,least_critical,3
+"cliff, drop, drop-off",20,-0.014503204328939326,least_critical,1
+"cliff, drop, drop-off",10,-0.00252304764289874,least_critical,2
+"cliff, drop, drop-off",5,-0.0014137723110616346,least_critical,3
 coral reef,18,0.2624527009762824,critical,1
 coral reef,22,0.20324341717176142,critical,2
 coral reef,20,0.19812398459762337,critical,3
-coral reef,2,-inf,least_critical,1
-coral reef,12,-inf,least_critical,2
-coral reef,14,-inf,least_critical,3
+coral reef,19,-0.13130971911363304,least_critical,1
+coral reef,23,-0.10509859035257252,least_critical,2
+coral reef,14,-0.008221236155368399,least_critical,3
 "lakeside, lakeshore",19,0.12422465763986114,critical,1
 "lakeside, lakeshore",22,0.03871735567227007,critical,2
 "lakeside, lakeshore",15,0.034590399628505124,critical,3
-"lakeside, lakeshore",2,-inf,least_critical,1
-"lakeside, lakeshore",4,-inf,least_critical,2
-"lakeside, lakeshore",5,-inf,least_critical,3
+"lakeside, lakeshore",20,-0.1233314528781921,least_critical,1
+"lakeside, lakeshore",23,-0.050791451259865436,least_critical,2
+"lakeside, lakeshore",17,-0.007910873256623749,least_critical,3
 "seashore, coast, seacoast, sea-coast",23,0.13509997718094388,critical,1
 "seashore, coast, seacoast, sea-coast",22,0.07214823564805557,critical,2
 "seashore, coast, seacoast, sea-coast",19,0.03765715763351183,critical,3
-"seashore, coast, seacoast, sea-coast",2,-inf,least_critical,1
-"seashore, coast, seacoast, sea-coast",3,-inf,least_critical,2
-"seashore, coast, seacoast, sea-coast",4,-inf,least_critical,3
+"seashore, coast, seacoast, sea-coast",20,-0.019669112020055786,least_critical,1
+"seashore, coast, seacoast, sea-coast",16,-0.001168752515786756,least_critical,2
+"seashore, coast, seacoast, sea-coast",14,-0.00025312099260190585,least_critical,3
 acorn,23,0.2584386238991283,critical,1
 acorn,22,0.17062362295575445,critical,2
 acorn,11,0.04847273640334607,critical,3
-acorn,2,-inf,least_critical,1
-acorn,5,-inf,least_critical,2
-acorn,9,-inf,least_critical,3
+acorn,12,-0.03945626512169839,least_critical,1
+acorn,21,-0.03454127476550639,least_critical,2
+acorn,9,-0.010045171398669481,least_critical,3
